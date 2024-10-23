@@ -1,0 +1,22 @@
+body{
+    font: normal 95%/140% 'Georgia';
+    margin-top: 2em;
+    color: #333;
+}
+
+a:link, a:visited{
+    color: #0F5B7F;
+}
+	
+a:hover{
+   color: #89C8C9;
+   text-decoration: none;
+	}
+	
+@media only screen and (max-width: 430px) and (min-width: 0px) {
+
+body{
+    margin: 3em;
+}
+
+}
