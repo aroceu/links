@@ -14,6 +14,8 @@
 
 <p>While some sections may have certain creators or pieces of entertainment recommended, this is by no means intended to be a recommendations list. If you'd like only things I'd recommend, check out my <a href="https://aroceu.com/library" target="blank">library</a>.</p>
 
+<p>You can keep up with real time updates and <a href="https://github.com/aroceu/links" target="_blank">view a repository of this project on Github</a>.
+
 <h3>a few caveats</h3>
 
 <p>Even with the thoroughness of this site, I generally try to avoid linking to:</p>
