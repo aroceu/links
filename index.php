@@ -13,6 +13,10 @@
 
 	body{
 		background:  url('saintesmaries.png') no-repeat top center fixed;
+		 -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 		background-height:  100vh;
 		min-width:  100%;
 		font: normal 100%/140% 'Georgia';
