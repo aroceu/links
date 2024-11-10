@@ -23,8 +23,9 @@
 <ul><li>Websites that require you to log in/have an account to reliably view a webpage, such as Twitter/X</li>
     <li>Websites prone to linkrot due to likely username changes and no easy redirect method, such as Tumblr</li>
     <li>Anything behind a paywall</li>
-    <li>Known abusers who I do not wish refer anyone else to <small><i>(this, of course, is subject to my own knowledge and comfort, but I state this more to indicate that I am sharing these links with some level of consciousness and responsibility)</i></small></li>
+    <li>Known predatory abusers or conspiracy theorists who I do not wish refer anyone else to <small><i>(this, of course, is subject to my own knowledge and comfort, but I state this more to indicate that I am sharing these links with some level of consciousness and responsibility)</i></small></li>
     <li>Websites or ideas that are not reliably accessible in some way</li>
+    <li>Websites that are not in English, due to my own language restrictions</li>
 </ul>
 
 <p>I also try to research and fact-check before sharing things. Though I have not meticulously researched <i>everything</i> linked here, all links have come from channels that are reliable to me in some way.</p> 
