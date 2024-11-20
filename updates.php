@@ -6,7 +6,7 @@
 
 <p>A log of new links loosely by organization, and a simplistic way to keep up with updates.</p>
 
-<h3><details><summary>November 20, 2024</h3></summary>
+<details><summary><h3>November 20, 2024</h3></summary>
 
 <p>this is new!!</p>
 
