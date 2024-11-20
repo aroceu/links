@@ -226,8 +226,8 @@
 <h3>Other Webdev Tools</h3>
 
 <ul>
-	<li><a href="https://theipsumcollection.com/" target="_blank">https://theipsumcollection.com/</a></li>
-	<li><a href="https://www.deadlinkchecker.com/" target="_blank">https://www.deadlinkchecker.com/</a></li>
+	<li><a href="https://theipsumcollection.com/" target="_blank">The Ipsum Collection</a></li>
+	<li><a href="https://www.deadlinkchecker.com/" target="_blank">Dead Link Checker</a></li>
 	<li><a href="https://shellsharks.com/notes/2023/08/15/website-component-checklist" target="_blank">Website Component Checklist</a></li>
 </ul>
 
