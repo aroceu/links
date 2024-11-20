@@ -4,9 +4,9 @@
 
 <h1>updates</h1>
 
-<p>A log of new links loosely by organization, and a simplistic way to keep up with updaets.</p>
+<p>A log of new links loosely by organization, and a simplistic way to keep up with updates.</p>
 
-<h4>November 20, 2024</h4>
+<h3>November 20, 2024</h3>
 
 gallery of gifts / commissioned art !
 
