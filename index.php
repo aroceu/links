@@ -49,7 +49,7 @@
 	}
 	
 	a:link, a:visited{
-	    color: #13786F;
+	    color: #0F5B7F;
 	}
 	
 	
