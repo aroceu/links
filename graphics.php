@@ -4,7 +4,7 @@
 
 <h2>Graphic Design</h2>
 
-<p>All links here are related to graphics and graphic design only. Graphic-related resources centered around web development can be found on the <a href="web.html">webdesign page</a>.</p>
+<p>All links here are related to graphics and graphic design only. Graphic-related resources centered around web development can be found on the <a href="web.php">webdesign page</a>.</p>
 
 <h3>Make your own</h3>
 <ul>

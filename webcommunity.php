@@ -31,7 +31,7 @@
     <li><a href="https://vvvvvv.asclaria.org/collectives/" target="blank">Directory of Collectives</a> at Asclaria</li>
     <li><a href="https://linklane.net/" target="blank">Link Lane.net</a></li>
      <li><a href="https://www.siteinspire.com/" target="blank">Site Inspire</a></li>
-    <li><a href="https://smoothsailing.asclaria.org/" target="blank">Smooth Sailing LIstings</a></li>
+    <li><a href="https://smoothsailing.asclaria.org/" target="blank">Smooth Sailing Listings</a></li>
     <li><a href="https://wiby.me/" target="blank">wiby.me</a> (search the indie web)</li>
 </ul>
 
