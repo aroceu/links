@@ -22,6 +22,14 @@
     <li><a href="https://disroot.org/en" target="blank">Disroot</a>: a platform providing online services based on principles of freedom, privacy, federation and decentralization.</li>
     <li><a href="https://sugoidesune.github.io/readium/" target="blank">Readium</a></li>
     <li><a href="https://lions-garb.net/playpen/csv2txtarea.php" target="blank">CSV to Text</a></li>
+     <li><a href="https://filegarden.com/" target="_blank">File Garden</a></li>
+ <li><a href="https://www.deadlinkchecker.com/" target="_blank">Dead Link Checker</a></li>
+ <li><a href="https://theuselessweb.com/" target="_blank">The Useless Web</a></li>
+ <li><a href="https://www.bitview.net/" target="_blank">Bitview</a> (youtube knockoff)</li>
+ <li><a href="https://zebracrossing.narwhalacademy.org/" target="_blank">Zebra Crossing</a> (digital safety checklist)</li>
+ <li><a href="https://rentry.org/" target="_blank">Rentry</a> (share text/links/markup files anonymously) </li>
+</p>
+</p>
     
 </ul>
 
@@ -43,12 +51,6 @@
      <li><a href="https://fsymbols.com/generators/smallcaps/" target="blank">Small Caps font generator</a></li>
 </ul>
 
-<!--
 
-Don't know where to put these but in case you're interested in making your own wiki:
-https://miraheze.org/ (hosting)
-https://www.mediawiki.org/wiki/MediaWiki (cms)
-https://getindie.wiki/
--->
 
     

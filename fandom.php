@@ -34,7 +34,6 @@
 <h3>Resources for fanworks</h3>
 
 <ul>
-        <li><a href="https://capshare.dreamwidth.org/" target="blank">Capshare</a> - screencap sharing community</li>
             <li><a href="https://honorless.net/progressbar.htm" target="blank">Progress Bar (for websites)</a></li>
     <li><a href="https://teekettle.tumblr.com/post/126920988304/live-example-my-ao3-skins-while-ao3-has-a" target="blank">How to Make Linked Footnotes on AO3</a></li>
     <li><a href="https://www.springhole.net/index.html" target="blank">Springhole</a>: writing tips, roleplaying advice, and more!</li>

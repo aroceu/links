@@ -33,6 +33,9 @@
      <li><a href="https://www.siteinspire.com/" target="blank">Site Inspire</a></li>
     <li><a href="https://smoothsailing.asclaria.org/" target="blank">Smooth Sailing Listings</a></li>
     <li><a href="https://wiby.me/" target="blank">wiby.me</a> (search the indie web)</li>
+    <li><a href="https://personalsit.es/" target="_blank">PersonalSit.es</a></li>
+    <li><a href="https://m8.github.io/refined.blog/" target="_blank">Refined Blog</a> (dev blogs)</li>
+    <li><a href="https://curlie.org/" target="_blank">Curlie.org</a> (search human-generated sites)(</li>
 </ul>
 
 <h3>Cliques (I haven't joined, but others may be interested in)</h3>

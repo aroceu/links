@@ -16,6 +16,10 @@
         <li><a href="https://deathgenerator.com/#gallery" target="blank">the death generator</a></li>
         <li><a href="https://www.3dtextmaker.com/image_editor.html" target="blank">3d text maker</a></li>
         <li><a href="https://mormoroi.com/_parts/mspaint.html" target="blank">MS Paint at mormoroi</a></li>
+        <li><a href="https://cooltext.com/" target="_blank">Cooltext</a></li>
+        <li><a href="https://benisland.neocities.org/petpet/" target="_blank">Petpet maker at Benis Land</a></li>
+        <li><a href="https://kidpix.app/" target="_blank">Kid Pix</a></li>
+        <li><a href="https://asciiart.club/" target="_blank">ASCII Art</a></li>
 </ul>
 
 <h3>Buttons/Stamps/Blinkies</h3>
@@ -31,16 +35,20 @@
     <li><a href="https://caitsith.neocities.org/graphics1" target="blank">caitsith's graphics</a></li>
     <li><a href="https://neonaut.neocities.org/cyber/88x31" target="blank">88x31 buttons on neonaut</a></li>
     <li><a href="https://mizunotic.neocities.org/graphics">mizunotic's graphics</a></li>
+    <li><a href="https://capstasher.neocities.org/88x31collection-page1" target="_blank">88x31 collection</a></li>
+</p>
 </ul>
 
 <h3>Type Design</h3>
 <ul><li><a href="https://typedesignresources.com/" target="blank">Type Design Resources</a></li></ul>
 
-<h3 id="cursors">Cursors</h3>
+<h3 id="cursors">Cursors & Smilies</h3>
 
 <ul>
 
 	<li><a href="https://www.cursors-4u.com/" target="blank">cursors-4u</a></li>
+    <li><a href="https://www.mazeguy.net/smilies.html" target="_blank">Smilies</a> at mazeguy.net</li>
+</p>
 
 </ul>
 
@@ -131,6 +139,12 @@ https://katecarteir.tumblr.com/post/619282875577171968
     <li><a href="https://bettysgraphics.neocities.org/" target="blank">Betty's Graphics</a></li>
     <li><a href="https://99gifshop.neocities.org/ " target="blank">99 gif shop</a></li>
     <li><a href="https://prophetesque.gay/graphix">prophetesque's graphix</a></li>
+    <li><a href="https://coolgifs.neocities.org/" target="_blank">https://coolgifs.neocities.org/</a></li>
+<li><a href="https://www.animatedimages.org/" target="_blank">animatedimages.org</a></li>
+<li><a href="https://www.gifs-paradise.com/" target="_blank">gifs-paradise</a></li>
+<li><a href="https://momg.neocities.org/" target="_blank">momg</a> at Neocities</li>
+<li><a href="https://win98icons.alexmeub.com/" target="_blank">win98icons</a> hosted by Alex Meub</li>
+    <li><a href="http://www.rw-designer.com/" target="_blank">Real World Graphics</a></li>
 
 </ul>
 
@@ -144,6 +158,8 @@ https://katecarteir.tumblr.com/post/619282875577171968
 	<li><a href="https://www.pixeden.com/free" target="blank">Pixeden (free)</a></li>
 	<li><a href="https://freebiesbug.com/" target="blank">Free Design Resources</a></li>
 	<li><a href="https://aestharis.net/index.php" target="blank">aestharis.net</a> (icon bases)</li>
+    <li><a href="https://textures.neocities.org/" target="_blank">textures.neocities.org/</a></li>
+
 </ul>
 
 <h3 id="backgrounds">Background Resources</h3>
@@ -172,6 +188,27 @@ https://katecarteir.tumblr.com/post/619282875577171968
 <li><a href="https://openverse.org/" target="blank">Open Verse</a></li>
 <li><a href="https://morguefile.com/" target="blank">Morgue File</a></li>
 <li><a href="https://loremflickr.com/" target="blank">Lorem Flickr</a></li>
+<li><a href="https://wasongo.art/you" target="_blank">wasongo.art's content</a></li>
+<li><a href="https://goblin-heart.net/sadgrl/webmastery/downloads/tiledbgs" target="_blank">Tiled Backgrounds at sadgirl.online</a></li>
+</ul>
+
+<h3 id="official">Official Art/Image Sharing</h3>
+
+<ul><li><a href="https://setteidreams.net/" target="_blank">setteidreams.net</a> (animation production materials)</li>
+<li><a href="https://capshare.dreamwidth.org/" target="_blank">capshare</a> at Dreamwidth (screencaps)</li>
+</ul>
+
+<h3 id="libraries">Libraries of images (professional & instutitional art/photography)</h3>
+
+<ul>
+    <li><a href="https://www.nypl.org/research/resources/public-domain-collections" target="_blank">New York Public Library's Public Domain Collections</a></li>
+    <li><a href="https://cari.institute/" target="_blank">Cari Institution</a></li>
+    <li><a href="https://www.nga.gov/open-access-images.html" target="_blank">Open Access Images at the National Gallery of Art</a></li>
+    <li><a href="https://publicdomainreview.org/collections/" target="_blank">Collections at the Public Domain Review</a></li>
+    <li><a href="https://www.si.edu/openaccess" target="_blank">Open Access at the Smithsonian Institute</a></li>
+    <li><a href="https://www.nasa.gov/images/" target="_blank">NASA</a></li>
+    <li><a href="https://creativecommons.org/" target="_blank">Creative Commons</a></li>
+    <li><a href="https://www.loc.gov/free-to-use/" target="_blank">Free to Use at the Library of Congress</a></li>
 </ul>
 
 <h3 id="tools">Tools</h3>

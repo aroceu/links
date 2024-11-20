@@ -112,7 +112,9 @@ body{
 <li><a href="web.php">Web Design, Code, Hosting, and Development Resources</a><ul>
     <li><a href="websocial.php">Social media/CMS resources</a></li>
     <li><a href="webcommunity.php">Communities and others' lists of webdev resources</a></li>
-    <li><font color="red"><b>NEW!</b></font> <a href="artists.php">Artist personal website resources masterlist</a></li>
+    <li><a href="artists.php">Artist personal website resources masterlist</a>
+    	<ul><li><font color="red"><b>NEW!</b></font> <a href="artsites.php">List of independent art websites</a></li>
+    	</ul></li>
 	</ul></li>
 <li><a href="fandom.php">Fandom, Fanfiction, and Fanworks</a><ul>
     <li><a href="1d.php">1D</a></li>
@@ -136,10 +138,10 @@ body{
 	<li><a href="oldfansites.php">Old personal fanfiction sites</a></li>
 <li><a href="writing.php">Writing</a>
     <ul><li><a href="genre.php">Genre Commentary</a></li></ul></li>
+<li><a href="libraries.php">Libraries & Archives</a></li>
 <li>Reading<ul>
 	<li><a href="reading.php">Social Commentary</a></li>
 	<li><a href="readinglist.php">Reading lists (books & articles)</a></li>
-	<li><a href="libraries.php">Text-based Libraries</a></li>
 	<li><a href="wikipedia.php">Wikipedia Pages</a></li>
 	</ul></li>
 <li><a href="tools.php">Online Tools</a><ul>
@@ -189,12 +191,12 @@ body{
 		<li><a href="tsn.php" target="iframe">TSN</a></li>
 		</ul></li>
 	<li><a href="oldfansites.php" target="iframe">Old personal fanfiction sites</a></li>
+		<li><a href="libraries.php" target="iframe">Libraries</a></li>
 <li><a href="writing.php" target="iframe">Writing</a>
     <ul><li><a href="genre.php" target="iframe">Genre Commentary</a></li></ul></li>
 <li>Reading<ul>
 	<li><a href="reading.php" target="iframe">Social Commentary</a></li>
 	<li><a href="readinglist.php" target="iframe">Reading lists (books & articles)</a></li>
-	<li><a href="libraries.php" target="iframe">Text-based Libraries</a></li>
 	<li><a href="wikipedia.php" target="iframe">Wikipedia Pages</a></li>
 	</ul></li>
 <li><a href="tools.php" target="iframe">Online Tools</a><ul>

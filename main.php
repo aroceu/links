@@ -4,7 +4,7 @@
 
 <h1>links @ kingdra.net (home)</h1>
 
-        <p><b><i>Last updated 23 October 2024</i></b></p>
+        <p><b><i>Last updated <a href="updates.php">20 November 2024</a></i></b></p>
         <p>Once upon a time, the internet used to be about sharing links with each other. Before there were algorithms or the same 3 websites that people would go on every day, there was a true curiosity and exploration required to enjoy and navigate the internet.</p>
 
 <p>And I'm here to bring the art of link sharing back! This site is an collection of links to websites, resources, essays, and whatever else that I've saved for one reason or another. I'm a neurotic link-hoarder, which may be evident with the large variety of categorizations here. I think of the internet like venturing the deep sea; and this is my treasure trove of what I've uncovered so far.</p>

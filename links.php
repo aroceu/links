@@ -30,6 +30,18 @@
     <li><a href="https://prophetesque.gay/bookmarks" target="blank">prophetesque's bookmarks</a></li>
     <li><a href="https://rexalted.neocities.org/you-resources" target="blank">rexalted's resources</a></li>
     <li><a href="https://mormoroi.com/bookmarks/" target="blank">mormori's bookmarks</a></li>
+    <li><a href="https://larsfrommars.neocities.org/" target="_blank">larsfrommars</a></li>
+<li><a href="https://crystalclearcrystalline.neocities.org/resources" target="_blank">crystalclearcrystalline's resources</a></li>
+<li><a href="https://xixxii.neocities.org/resources" target="_blank">xixxii's resources</a></li>
+<li><a href="https://doctordizzy.space/links/" target="_blank">doctordizzy's links</a></li>
+<li><a href="https://emocowboy.neocities.org/?emo=/home/links" target="_blank">emocowboy's links</a></li>
+<li><a href="https://birdwrongs.sh/resources" target="_blank">birdwrongs's resources</a></li>
+<li><a href="https://lapislabel.net/home?z=/bookmarks" target="_blank">lapislabel's bookmarks</a></li>
+<li><a href="https://mycorrhiza.space/links" target="_blank">mycorrhiza's links</a></li>
+<li><a href="https://nostalgic.neocities.org/goodies/resources" target="_blank">nostalgic's esources</a></li>
+<li><a href="https://pklucky.neocities.org/cool-sites/" target="_blank">pklucky's collection of cool sites</a></li>
+<li><a href="https://faeraphim.net/www/web-resources.htm" target="_blank">faeraphim's web resources</a></li>
+<li><a href="https://peelopaalu.neocities.org/" target="_blank">peelopaalu</a></li>
     
 </ul>
 

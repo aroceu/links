@@ -4,6 +4,13 @@
 
 <h2>Social media/CMS Resources</h2>
 
+<h3>Bluesky</h3>
+<ul>
+    <li><a href="https://blueskydirectory.com/" target="_blank">https://blueskydirectory.com/</a></li>
+<li><a href="https://aroceu.github.io/bsky" target="_blank">https://aroceu.github.io/bsky</a></li>
+<li><a href="https://www.pfrazee.com/" target="_blank">https://www.pfrazee.com/</a></li>
+</ul>
+
 <h3>Dreamwidth</h3>
 
 <ul>

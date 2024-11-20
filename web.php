@@ -27,15 +27,21 @@
 	<li><a href="https://systemfontstack.com/" target="blank">System Font Stack</a></li>
 	
 	<li><a href="https://www.fontspring.com/foundry/typodermic?sort=price" target="blank">Font Spring</a></li>
-<li><a href="https://caveras.net/" target="blank">Caveras</a></li>
-<li><a href="https://velvetyne.fr/" target="blank">Velvetyne</a></li>
-<li><a href="https://www.tunera.xyz/" target="blank">Tunera</a></li>
-<li><a href="https://uncut.wtf/" target="blank">Uncut</a></li>
-<li><a href="https://www.futurefonts.xyz/fonts" target="blank">Future Fonts</a></li>
+	<li><a href="https://caveras.net/" target="blank">Caveras</a></li>
+	<li><a href="https://velvetyne.fr/" target="blank">Velvetyne</a></li>
+	<li><a href="https://www.tunera.xyz/" target="blank">Tunera</a></li>
+	<li><a href="https://uncut.wtf/" target="blank">Uncut</a></li>
+	<li><a href="https://www.futurefonts.xyz/fonts" target="blank">Future Fonts</a></li>
     <li><a href="https://fontsinuse.com/" target="blank">Fonts in Use</a></li>
-     <li><a href="https://www.collletttivo.it/" target="blank">Collletttivo</a></li>
+    <li><a href="https://www.collletttivo.it/" target="blank">Collletttivo</a></li>
     <li><a href="https://aroceu.tumblr.com/post/763527131141652480/hi-ava-i-love-all-of-ur-edits-so-so-much-and" target="blank">A list of recmomended fonts on Tumblr by anya-chalotra</a></li>
     <li><a href="https://crispsevans.tumblr.com/post/190519171252/disclaimer-i-am-not-a-professional-graphic" target="blank">pairing typefaces by crispsevans</a></li>
+    <li><a href="https://wordmark.it/" target="_blank">Wordmark</a> (preview fonts on your computer)</li>
+	<li><a href="https://www.1001freefonts.com/" target="_blank">1001freefont</a></li>
+	<li><a href="https://www.abstractfonts.com/" target="_blank">Abstract Fonts</a></li>
+	<li><a href="https://www.behance.net/search/projects?tracking_source=typeahead_search_direct&field=graphic%20design&search=free%20fonts" target="_blank">Free font on Behance.net</a></li>
+	<li><a href="https://fontsarena.com/" target="_blank">Fonts Arena</a></li>
+	<li><a href="https://www.fontsquirrel.com/" target="_blank">Font Squirrel</a></li>
 
 </ul>
 
@@ -65,6 +71,10 @@
     <li><a href="https://fabled.day/" target="blank">fabled.day</a> (tutorials!!)</li>
     <li><a href="https://hakanai.net/" target="blank">hakanai.net</a></li>
     <li><a href="https://syntheticfruits.neocities.org/" target="blank">syntheticfruits</a></li>
+    <li><a href="https://foollovers.com/" target="_blank">foollovers</a></li>
+	<li><a href="https://keysklubhouse.com/" target="_blank">Key's Klubhouse</a></li>
+	<li><a href="https://eggramen.neocities.org/code/css_testpages" target="_blank">eggramen's CSS</a></li>
+	<li><a href="https://ribo.zone/free/" target="blank">ribo.zone's free content</a>
     
 </ul>
 
@@ -87,6 +97,8 @@
 	<li><a href="https://coolors.co/" target="blank">Coolors</a></li>
 	<li><a href="https://accessiblepalette.com/" target="blank">Accessible Palette</a></li>
 	<li><a href="https://www.realtimecolors.com/?colors=050315-fbfbfe-2f27ce-dedcff-433bff&fonts=Inter-Inter" target="blank">Realtime Colors</a></li>
+	<li><a href="https://supercolorpalette.com/" target="_blank">Super Color Palette</a></li>
+
 </ul>
 
 <h3 id="code">Specific Code Snippets</h3>
@@ -114,8 +126,20 @@
 	<li><a href="https://9elements.github.io/fancy-border-radius/" target="blank">Fancy-Border-Radius</a></li>
 	<li><a href="https://ianlunn.github.io/Hover/" target="blank">Hover.css</a></li>
 	<li><a href="http://www.mf2fm.com/rv/" target="blank">RV's free Javascript/DHTML effects</a></li>
+	<li><a href="https://webcode.tools/css-generator" target="_blank">CSS Generator on Webcode Tools</a></li>
+	<li><a href="https://www.htmldog.com/" target="_blank">HTML Dog</a></li>
+	<li><a href="https://html-css-js.com/html/generator/" target="_blank">HTML Code Generators</a> (this site also has CSS and JS resources)</li>
+	<li><a href="https://scripted.neocities.org/2nd#" target="_blank">scripted.neocities.org</a></li>
+	<li><a href="https://loveberry.nekoweb.org/" target="_blank">loveberry.nekoweb.org</a></li>
+	<li><a href="https://webcatz.neocities.org/resources/" target="_blank">Resources at webcatz.org</a></li>
+	<li><a href="https://shouldiprefix.com/" target="_blank">Should I Prefix (CSS)</a></li>
+	<li><a href="https://tabletag.net/" target="_blank">Table Tag Generator</a></li>
+	<li><a href="https://wweb.dev/resources/css-separator-generator" target="_blank">CSS Separator Generator</a></li>
+	<li><a href="https://www.image-map.net/" target="_blank">Image Map</a></li>
+	<li><a href="https://snipplr.com/" target="_blank">Snipplr</a></li>
+	<li><a href="http://www.stripegenerator.com/" target="_blank">Stripe Generator (CSS)</a></li>
 	
-	</ul>
+</ul>
 	
 <h3>Code Tools, Tutorials, Resources, and Tips</h3>
 
@@ -131,24 +155,26 @@
     <li><a href="https://gulpjs.com/" target="blank">Gulp for Javscript</a></li>
     <li><a href="https://htmldog.com/" target="blank">HTML Dog</a></li>
     <li><a href="https://marksheet.io/" target="blank">Marksheet.io</a></li>
-        <li><a href="https://nownownow.com/about">nownownow</a></li>
-            <li><a href="https://www.websitecarbon.com/">Website Carbon</a></li>
-            <li><a href="https://github.com/swyxio/spark-joy" target="blank">spark joy: design tools for developers in a hurry</a></li>
-        <li><a href="https://lions-garb.net/playpen/babys-first-randomizer/" target="blank">How to make your first randomizer</a></li>
-        <li><a href="https://gwfh.mranftl.com/fonts">A Hassle-Free Way to Self-Host Google Fonts</a></li>
-        	<li><a href="https://flexboxfroggy.com/" target="blank">Flexbox Froggy</a></li>
-        		<li><a href="https://cssgridgarden.com/" target="blank">Grid Garden</a></li>
-        		<li><a href="https://neonaut.neocities.org/brain/image-compression" target="blank">Become a Compression Sorcerer</a></li>
-        		<li><a href="http://lilaclynx.net/responsive.html" target="blank">Making your site look good on mobile</a></li>
+    <li><a href="https://nownownow.com/about">nownownow</a></li>
+	<li><a href="https://www.websitecarbon.com/">Website Carbon</a></li>
+	<li><a href="https://github.com/swyxio/spark-joy" target="blank">spark joy: design tools for developers in a hurry</a></li>
+	<li><a href="https://lions-garb.net/playpen/babys-first-randomizer/" target="blank">How to make your first randomizer</a></li>
+	<li><a href="https://gwfh.mranftl.com/fonts">A Hassle-Free Way to Self-Host Google Fonts</a></li>
+    <li><a href="https://flexboxfroggy.com/" target="blank">Flexbox Froggy</a></li>
+	<li><a href="https://cssgridgarden.com/" target="blank">Grid Garden</a></li>
+	<li><a href="https://neonaut.neocities.org/brain/image-compression" target="blank">Become a Compression Sorcerer</a></li>
+	<li><a href="http://lilaclynx.net/responsive.html" target="blank">Making your site look good on mobile</a></li>
 
 </ul>
 	
 <h3>File Management & Development</h3>
 <ul>
     <li><a href="https://tinypng.com/" target="blank">Tinify: Compress images into PNGs</a></li>
+    <li><a href="https://filegarden.com/" target="_blank">File Garden</a></li>
+    <li><a href="https://catbox.moe/" target="blank">Catbox (file sharing)</a></li>
 </ul>
 
-<h3>Content Management/Galleries</h3>
+<h3>Content Management, Blogs, & Galleries</h3>
 <ul>
     <li><a href="https://melonking.itch.io/melons-gallery-maker" target="blank">Melon's Gallery Maker</a></li>
 	<li><a href="https://palemomos.bearblog.dev/add-a-gallery-with-hundreds-of-images-easily-to-your-website-using-javascript-or-jquery/" target="blank">Simple Gallery Maker</a></li>
@@ -158,10 +184,12 @@
 	<li><a href="https://mediacms.io/" target="blank">Media CMS</a></li>
 	<li><a href="https://github.com/moebooru/moebooru " target="blank">moebooru</a> (danbooru fork)</li>
 	<li><a href="https://github.com/rr-/szurubooru " target="blank">szurubooru</a> (danbooru fork)</li>
+	<li><a href="https://zonelets.net/" target="_blank">Zonelets</a> (blogging CMS)</li>
+	<li><a href="https://scumpsmallbrain.neocities.org/more/neoblog_guide" target="_blank">Neoblog Guide by Scump Small Brain</a></li>
+	<li><a href="https://github.com/aurenen/Chronica" target="_blank">Chronica</a> by aurenen</li>
 </ul>
 
 <h3 id="hosting">Hosting</h3>
-
 
 <ul>
     <li><a href="https://neocities.org" target="blank">Neocities</a></li>
@@ -171,7 +199,7 @@
 	<li><a href="https://hosting.lexiqqq.com/plans/" target="blank">LexiQQQ</a></li>
 	<li><a href="https://www.dreamhost.com/" target="blank">Dreamhost</a></li>
 	<li><a href="https://nekoweb.org/" target="blank">Nekoweb</a></li>
-	    <li><a href="https://kalechips.net/stuff/hosting" target="blank">Web hosts</a> listed by Kalechips</li>
+	<li><a href="https://kalechips.net/stuff/hosting" target="blank">Web hosts</a> listed by Kalechips</li>
 </ul>
 
 <h3>Accessibility</h3>
@@ -193,8 +221,24 @@
 	<li><a href="https://webaim.org/intro/" target="blank">WebAIM: Web Accessibility in Mind</a></li>
 	<li><a href="https://www.youtube.com/watch?v=6V0zl-pSCSs" target="blank">Accessibility: What's the difference between WCAG Levels A and AA? (Video)</a></li>
 	<li><a href="https://www.freecodecamp.org/news/tag/accessibility/" target="blank">Posts about Accessibility in Free Code Camp</a></li>
-
 </ul>
+
+<h3>Other Webdev Tools</h3>
+
+<ul>
+	<li><a href="https://theipsumcollection.com/" target="_blank">https://theipsumcollection.com/</a></li>
+	<li><a href="https://www.deadlinkchecker.com/" target="_blank">https://www.deadlinkchecker.com/</a></li>
+	<li><a href="https://shellsharks.com/notes/2023/08/15/website-component-checklist" target="_blank">Website Component Checklist</a></li>
+</ul>
+
+
+<!--
+
+Don't know where to put these but in case you're interested in making your own wiki:
+https://miraheze.org/ (hosting)
+https://www.mediawiki.org/wiki/MediaWiki (cms)
+https://getindie.wiki/
+-->
 
 
 

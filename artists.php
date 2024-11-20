@@ -1,4 +1,4 @@
-<title>art websites &bull; kingdra.net</title>
+<title>resources for art websites &bull; kingdra.net</title>
 
          <?php include('header.php') ?>
          
@@ -34,95 +34,7 @@
 
 <p>These are not endorsements of the content of any art or the artists in an individual way, just a collection of examples of how others have displayed their art on their own websites. Many links also go directly to the art gallery&mdash;feel free to explore the rest of the site to see what else is there!</p>
 
-<p>Any websites may have 18+ content. They should all have warnings prior to showing any content. All websites also are largely completed, have art or webdesign of a certain level of quality, and should not have any AI art, excessive gore, or extreme NSFW content.</p>
-
-<p>If you'd like to browse more personal websites by creatives, check out my button wall <a href="https://kingdra.net/sites.php">here</a>.</p>
-
-<details><summary><b>Neocities</b> (click)</summary>
-<ul>
-    <li><a href="https://haii2u.neocities.org/" target="blank">haii2u</a></li>
-    <li><a href="https://flowerdogtan.neocities.org/" target="blank">flowerdogtan</a></li>
-    <li><a href="https://ursaaves.neocities.org/" target="blank">ursaaves</a></li>
-    <li><a href="https://goatgirl.neocities.org/" target="blank">goatgirl</a></li>
-    <li><a href="https://greymornings.neocities.org/art" target="blank">greymornings's art</a></li>
-    <li><a href="https://snacksgg.neocities.org/gallery" target="blank">snacksgg's gallery</a></li>
-    <li><a href="https://pokedoodles.neocities.org/" target="blank">pokedoodles</a></li>
-    <li><a href="https://pixelmiser.neocities.org/" target="blank">pixelmiser</a></li>
-    <li><a href="https://ecocidee.neocities.org/Gallery" target="blank">ecocidee's gallery</a></li>
-    <li><a href="https://pippington.neocities.org/" target="blank">pippington</a></li>
-    <li><a href="https://chilliartgallery.neocities.org/" target="blank">chilliartgallery</a></li>
-    <li><a href="https://turbuggy.neocities.org/gallery/ " target="blank">turbuggy's gallery</a></li>
-    <li><a href="https://themiles.neocities.org/Gallery" target="blank">themiles's gallery</a></li>
-    <li><a href="https://averyprobably.neocities.org/gallery" target="blank">averyprobably's gallery</a></li>
-    <li><a href="https://fridgefeet.neocities.org/fanart-chronologic" target="blank">fridgefeet's fanart (chronologically)</a></li>
-    <li><a href="https://psshaw.neocities.org/gallerie" target="blank">psshaw's gallerie</a></li>
-    <li><a href="https://obliviousally.neocities.org/" target="blank">obliviousally</a></li>
-    <li><a href="https://punkray.neocities.org/" target="blank">punkray</a></li>
-    <li><a href="https://leusyth.neocities.org/" target="blank">leusyth</a></li>
-    <li><a href="https://xomii.neocities.org/" target="blank">xomii</a></li>
-    <li><a href="https://5amgirlfriend.neocities.org/" target="blank">5amgirlfriend</a></li>
-    <li><a href="https://grumpycyclops.neocities.org/light/home" target="blank">grumpycyclops</a></li>
-    <li><a href="https://chocolaterevel.neocities.org/2.0/Default/Home" target="blank">chocolaterevel</a></li>
-    <li><a href="https://strawberryreverie.neocities.org/yume/art" target="blank">strawberryreverie's yume art</a></li>
-    <li><a href="https://mn1ca.neocities.org/" target="blank">mn1ca</a></li>
-    <li><a href="https://sinistersuns.neocities.org/gallery/" target="blank">sinistersuns's gallery</a></li>
-    <li><a href="https://petrapixel.neocities.org/creations/art" target="blank">petrapixel's art</a></li>
-    <li><a href="https://turd.neocities.org/creations" target="blank">turd's creations</a></li>
-    <li><a href="https://mordu.neocities.org/gallery" target="blank">mordu's gallery</a></li>
-    <li><a href="https://serpentinemalign.neocities.org/art" target="blank">serpentinemalign's art</a></li>
-    <li><a href="https://100years.neocities.org/" target="blank">100years</a></li>
-    <li><a href="https://bechnokid.neocities.org/artwork/" target="blank">bechnokid's artwork</a></li>
-    <li><a href="https://cloverbell.neocities.org/artgallery" target="blank">cloverbell's art gallery</a></li>
-    <li><a href="https://atelier2079.neocities.org/" target="blank">atelier2079</a></li>
-    <li><a href="https://strudelfatpaws.neocities.org" target="blank">strudelfatpaws</a></li>
-</ul></details>
-
-<details><summary><b>Custom Domains; may be hosted on Neocities or otherwise</b> (click)</summary>
-<ul>
-        <li><a href="https://kradeelav.com/" target="blank">kradeelav.com</a></li>
-        <li><a href="https://rudytues.day/works/gallery/" target="blank">rudytuesday's gallery of works</a></li>
-            <li><a href="https://armaina.com/" target="blank">armaina.com</a></li>
-    <li><a href="https://lagomorphosis.org/" target="blank">lagomorphosis.org</a></li>
-    <li><a href="https://nyaroma.com/" target="blank">nyaroma.com</a></li>
-    <li><a href="https://www.mosskat.com/illustration/" target="blank">mosskat's illustrations</a></li>
-    <li><a href="https://www.rintheyordle.com/recent-work" target="blank">Rin The Yordle</a></li>
-    <li><a href="https://www.skullbird.com/" target="blank">skullbird.com</a></li>
-        <li><a href="https://hazardsigns.net/" target="blank">hazardsigns.net</a></li>
-     <li><a href="https://www.vicekillx.com/portfolio" target="blank">vicekillx's portfolio</a></li>
-         <li><a href="https://omoulo.com" target="blank">omoulo.com</a></li>
-    <li><a href="https://snewdraws.net/gallery" target="blank">snewdraws's gallery</a></li>
-    <li><a href="https://bennizone.net/gallery" target="blank">bennizone's gallery</a></li>
-    <li><a href="https://reibi.party/art/gallery/" target="blank">reibi.party's art gallery</a></li>
-    <li><a href="https://aproxm.com/art" target="blank">aproxm's art</a></li>
-    <li><a href="https://scumsuck.com/art" target="blank">scumsuck's art</a></li>
-    <li><a href="https://chancethecheetah.art/gallery" target="blank">chancethecheetah's art gallery</a></li>
-    <li><a href="https://enikomics.com/portfolio#home" target="blank">enikomics's portfolio</a></li>
-    <li><a href="https://portfolio.jadeeverstone.com/" target="blank">Jade Everstone's portfolio</a></li>
-    <li><a href="https://mormoroi.com/art/" target="blank">mormoroi's art</a></li>
-            <li><a href="https://knifequeerart.com/" target="blank">knifequeerart.com</a></li>
-     <li><a href="https://dkhk.grrr.jp/?page_id=67" target="blank">dkhk's art</a></li>
-    <li><a href="https://www.jisukcho.com/4-2/" target="blank">Jisuk Cho's portfolio</a></li>
-    <li><a href="https://www.jaydaitkaci.com/blog" target="blank">Jayd Ait-Kaci's art blog</a></li>
-    <li><a href="http://ainsyeager.com/" target="blank">ainsyeager.com</a></li>
-    <li><a href="https://www.blindcoyote.com/characters" target="blank">blindcoyote's characters</a></li>
-    <li><a href="https://runegod.net/art" target="blank">runegod.net's art</a></li>
-    <li><a href="https://www.yapi.lol/gallery" target="blank">yapi.lol's gallery</a></li>
-    <li><a href="https://allyratworld.com/portfolio/illustration" target="blank">allyratworld's illustration portfolio</a></li>
-    <li><a href="https://freakphone.net/" target="blank">freakphone.net</a></li>
-    <li><a href="https://m0r1bund.com/" target="blank">m0r1bund.com</a></li>
-    <li><a href="https://doqmeat.com/art/" target="blank">doqmeat's art</a></li>
-    <li><a href="https://cinni.net/?z=/art/" target="blank">cinni.net's art</a></li>
-    <li><a href="https://www.zoidart.xyz/" target="blank">zoidart.xyz</a></li>
-    <li><a href="https://art.ophanimkei.com/" target="blank">art at ophanimkei.com</a></li>
-    <li><a href="https://jayeaton.site/" target="blank">jayeaton.site</a></li>
-    <li><a href="https://zonaplankton.net/art/" target="blank">zonaplankton.net's art</a></li>
-    <li><a href="https://empiressmp.gay/Art/" target="blank">empiressmp.gay's art</a></li>
-     <li><a href="https://sanguineroyal.com/artwork" target="blank">sanguineroyal's artwork</a></li>
-    <li><a href="https://norma-2d.itch.io/" target="blank">norma-2d on itch.io </a></li>
-    
-</ul>
-
-</details>
+<p><a href="artsites.php"><b>&rarr; click here to view the full list</b></a></p>
 
 <h2>Art Website Resources</h2>
 
@@ -150,6 +62,7 @@
     <li><a href="https://www.nishishi.com/cgi/tegalog/" target="blank">tegalog</a> (lightweight content management)</li>
     <li><a href="https://github.com/rr-/szurubooru" target="blank">szurubooru</a> (danbooru fork)</li>
     <li><a href="https://github.com/moebooru/moebooru" target="blank">moebooru"</a> (danbooru fork)</li>
+    <li><a href="https://fancyapps.com/fancybox/" target="_blank">fancybox</a></li>
 </ul>
 
 <h3>Image-specific resources</h3>
@@ -158,6 +71,9 @@
     <li><a href="https://www.pureref.com/" target="blank">PureRef</a> (keep track of your references)</li>
     <li><a href="https://tinypng.com/" target="blank">TinyPng</a> (compress images)</li>
     <li><a href="https://ditherit.com/" target="blank">DitherIt</a> (dither images)</li>
+    <li><a href="https://www.fookes.com/easy-thumbnails" target="_blank">fookes's easy thumbnails</a></li>
+<li><a href="https://www.waifu2x.net/" target="_blank">waifu2x</a> (resize images without losing quality)</li>
+<li><a href="https://www.image-map.net/" target="_blank">Image Map</a></li>
 </ul>
 
 <h3>Indie Hosts</h3>
@@ -194,6 +110,12 @@
     <li><a href="https://sheezy.art/" target="blank">sheezy.art</a></li>
     <li><a href="https://superlove.sayitditto.net/" target="blank">superlove at sayitditto</a> (AO3 clone that supports fanart)</li>
     <li><a href="https://cartoonist.coop/" target="blank">Cartoonist Cooperative</a></li>
+</ul>
+
+<h3>Other Tools</h3>
+
+<ul>
+    <li><a href="https://shellsharks.com/notes/2023/08/15/website-component-checklist" target="_blank">Website Component Checklist</a></li>
 </ul>
 
 <p>If you are a friend of mine and need some handholding, hit me up and I'll see what we can work out :)</p>
