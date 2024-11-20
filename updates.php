@@ -6,7 +6,7 @@
 
 <p>A log of new links loosely by organization, and a simplistic way to keep up with updates.</p>
 
-<h3>November 20, 2024</h3>
+<details><summary><h3>November 20, 2024</h3></summary>
 
 <p>this is new!!</p>
 
@@ -331,5 +331,6 @@ remove from backgrounds and add to this category
 <a href="https://the-eye.eu/public/" target="_blank">https://the-eye.eu/public/</a><br />
 <a href="https://web.archive.org/web/20210322135046/https://www.freeware-guide.com/" target="_blank">https://web.archive.org/web/20210322135046/https://www.freeware-guide.com/</a><br /></p></details>
 
+</details>
 
 
