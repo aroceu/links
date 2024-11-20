@@ -48,18 +48,16 @@
 	    text-align: center;
 	}
 	
-a:link, a:visited{
-    color: #13786F; 
-    text-decoration: none;
-    border-bottom: 1px solid;
-    box-shadow: inset 0px -8px 0 0px #d3e4eb; /** lt blue **/
-}
-	
-a:hover, a:focus{
-   color: #0F5B7F; /** dark blue **/
-   text-decoration: none;
-   box-shadow: none;
+	a:link, a:visited{
+	    color: #13786F;
 	}
+	
+	
+	a:hover{
+	    color: #89C8C9;
+	    text-decoration: none;
+	}
+	
 	#mobilelist{
 	    display: none;
 	}
