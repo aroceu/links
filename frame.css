@@ -11,7 +11,7 @@ a:link, a:visited{
     box-shadow: inset 0px -8px 0 0px #d3e4eb; /** lt blue **/
 }
 	
-a:hover{
+a:hover, a:focus{
    color: #0F5B7F; /** dark blue **/
    text-decoration: none;
    box-shadow: none;
