@@ -8,7 +8,7 @@ a:link, a:visited{
     color: #13786F; 
     text-decoration: none;
     border-bottom: 1px solid;
-    box-shadow: inset 0px -8px 0 0px #639CB8; /** lt blue **/
+    box-shadow: inset 0px -8px 0 0px #d3e4eb; /** lt blue **/
 }
 	
 a:hover{
