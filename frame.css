@@ -5,11 +5,11 @@ body{
 }
 
 a:link, a:visited{
-    color: #0F5B7F;
+    color: #00377A;
 }
 	
 a:hover{
-   color: #89C8C9;
+   color: #0F5B7F;
    text-decoration: none;
 	}
 	
