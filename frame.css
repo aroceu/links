@@ -5,14 +5,16 @@ body{
 }
 
 a:link, a:visited{
-    color: #13786F;
+    color: #13786F; 
     text-decoration: none;
-    border-bottom: 2px solid;
+    border-bottom: 1px solid;
+    box-shadow: inset 0px -8px 0 0px #5A96B1; /** lt blue **/
 }
 	
 a:hover{
-   color: #00377A;
+   color: #0F5B7F; /** dark blue **/
    text-decoration: none;
+   box-shadow: none;
 	}
 	
 @media only screen and (max-width: 430px) and (min-width: 0px) {
