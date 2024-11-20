@@ -7,7 +7,7 @@
         <p><b><i>Last updated <a href="updates.php">20 November 2024</a></i></b></p>
         <p>Once upon a time, the internet used to be about sharing links with each other. Before there were algorithms or the same 3 websites that people would go on every day, there was a true curiosity and exploration required to enjoy and navigate the internet.</p>
 
-<p>And I'm here to bring the art of link sharing back! This site is an collection of links to websites, resources, essays, and whatever else that I've saved for one reason or another. I'm a neurotic link-hoarder, which may be evident with the large variety of categorizations here. I think of the internet like venturing the deep sea; and this is my treasure trove of what I've uncovered so far.</p>
+<p>And I'm here to bring the art of link sharing back! This site is an collection of links to websites, resources, essays, and whatever else that I've saved for one reason or another. I'm a neurotic link-hoarder, which may be evident with the large variety of categorizations here. I think of the internet like venturing the deep sea; this is what I've discovered so far.</p>
 
 <p>As of the time of writing this, all links are functional and accessible in the way I believe they are intended to be. Links are also not advertisements or endorsements. If nothing else, they are here for preservation purposes, because I believe strongly in archiving and maintaining access to information. The idea that "everything is permanent on the internet" isn't exactly accurate&mdash;many things on the web tend get lost to time or the physicality of servers, and I believe it's important to preserve knowledge and forms of self-expression if nothing else then for the sake of it.</p>
 
