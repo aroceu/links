@@ -14,7 +14,7 @@
 
 <p>200 new links below</p>
 
-<details><summary><p>personal sites</p></summary>
+<p><details><summary>personal sites</p></summary>
 <p><a href="https://www.yapi.lol/" target="_blank">https://www.yapi.lol/</a><br />
 <a href="https://idolum.nekoweb.org/" target="_blank">https://idolum.nekoweb.org/</a><br />
 <a href="https://abyssbloom.neocities.org/" target="_blank">https://abyssbloom.neocities.org/</a><br />
@@ -42,7 +42,7 @@
 <a href="https://sentimentalfuturist.net/" target="_blank">https://sentimentalfuturist.net/</a><br />
 </p></details>
 
-<details><summary><p>archive sites</p></summary>
+<p><details><summary>archive sites</p></summary>
 <p><a href="https://boxy.neocities.org/" target="_blank">https://boxy.neocities.org/</a><br />
 <a href="https://tcrf.net/The_Cutting_Room_Floor" target="_blank">https://tcrf.net/The_Cutting_Room_Floor</a><br />
 <a href="https://geocities.restorativland.org/" target="_blank">https://geocities.restorativland.org/</a><br />
@@ -50,14 +50,14 @@
 <a href="https://mydora.restorativland.org/" target="_blank">https://mydora.restorativland.org/</a><br />
 </p></details>
 
-<details><summary><p>web content sites</p></summary>
+<p><details><summary>web content sites</p></summary>
 <p><a href="https://foollovers.com/" target="_blank">https://foollovers.com/</a><br />
 <a href="https://keysklubhouse.com/" target="_blank">https://keysklubhouse.com/</a><br />
 <a href="https://eggramen.neocities.org/code/css_testpages" target="_blank">https://eggramen.neocities.org/code/css_testpages</a><br />
 <a href="https://ribo.zone/free/" target="blank">https://ribo.zone/free/</a>
 </p></details>
 
-<details><summary><p>links of links</p></summary>
+<p><details><summary>links of links</p></summary>
 <p><a href="https://larsfrommars.neocities.org/" target="_blank">https://larsfrommars.neocities.org/</a><br />
 <a href="https://crystalclearcrystalline.neocities.org/resources" target="_blank">https://crystalclearcrystalline.neocities.org/resources</a><br />
 <a href="https://xixxii.neocities.org/resources" target="_blank">https://xixxii.neocities.org/resources</a><br />
@@ -72,7 +72,7 @@
 <a href="https://peelopaalu.neocities.org/" target="_blank">https://peelopaalu.neocities.org/</a>
 </p></details>
 
-<details><summary><p>art sites</p></summary>
+<p><details><summary>art sites</p></summary>
 <p><a href="https://117.zone/home" target="_blank">https://117.zone/home</a><br />
 <a href="https://andou.gay/impzone" target="_blank">https://andou.gay/impzone</a><br />
 <a href="https://melankorin.net/gallery/" target="_blank">https://melankorin.net/gallery/</a><br />
@@ -94,7 +94,7 @@ art/graphic resources
 <a href="https://www.image-map.net/" target="_blank">https://www.image-map.net/</a><br />
 </p></details>
 
-<details><summary><p>bluesky</p></summary>
+<p><details><summary>bluesky</p></summary>
 <p><a href="https://blueskydirectory.com/" target="_blank">https://blueskydirectory.com/</a><br />
 <a href="https://aroceu.github.io/bsky" target="_blank">https://aroceu.github.io/bsky</a><br />
 <a href="https://www.pfrazee.com/" target="_blank">https://www.pfrazee.com/</a><br />
@@ -119,13 +119,13 @@ remove from backgrounds and add to this category
 <a href="https://www.loc.gov/free-to-use/" target="_blank">https://www.loc.gov/free-to-use/</a><br />
 </p></details>
 
-<details><summary><p>textures/backgrounds</p></summary>
+<p><details><summary>textures/backgrounds</p></summary>
 <p><a href="https://textures.neocities.org/" target="_blank">https://textures.neocities.org/</a><br />
 <a href="https://wasongo.art/you" target="_blank">https://wasongo.art/you</a><br />
 <a href="https://goblin-heart.net/sadgrl/webmastery/downloads/tiledbgs" target="_blank">https://goblin-heart.net/sadgrl/webmastery/downloads/tiledbgs</a><br />
 </p></details>
 
-<details><summary><p>gifs/misc graphics</p></summary>
+<p><details><summary>gifs/misc graphics</p></summary>
 <p><a href="https://coolgifs.neocities.org/" target="_blank">https://coolgifs.neocities.org/</a><br />
 <a href="https://www.animatedimages.org/" target="_blank">https://www.animatedimages.org/</a><br />
 <a href="https://www.gifs-paradise.com/" target="_blank">https://www.gifs-paradise.com/</a><br />
@@ -133,35 +133,35 @@ remove from backgrounds and add to this category
 <a href="https://win98icons.alexmeub.com/" target="_blank">https://win98icons.alexmeub.com/</a><br />
 </p></details>
 
-<details><summary><p>buttons/stamps</p></summary>
+<p><details><summary>buttons/stamps</p></summary>
 <p><a href="https://capstasher.neocities.org/88x31collection-page1" target="_blank">https://capstasher.neocities.org/88x31collection-page1</a><br />
 </p></details>
 
-<details><summary><p>make your own</p></summary>
+<p><details><summary>make your own</p></summary>
 <p><a href="https://cooltext.com/" target="_blank">https://cooltext.com/</a><br />
 <a href="https://benisland.neocities.org/petpet/" target="_blank">https://benisland.neocities.org/petpet/</a><br />
 <a href="https://kidpix.app/" target="_blank">https://kidpix.app/</a><br />
 <a href="https://asciiart.club/" target="_blank">https://asciiart.club/</a><br />
 </p></details>
 
-<details><summary><p>software</p></summary>
+<p><details><summary>software</p></summary>
 <p><a href="https://inkscape.org/" target="_blank">https://inkscape.org/</a><br />
 </p></details>
 
-<details><summary><p>pokemon</p></summary>
+<p><details><summary>pokemon</p></summary>
 <p><a href="https://projectpokemon.org/home/docs/spriteindex_148/3d-models-generation-1-pok%C3%A9mon-r90/" target="_blank">https://projectpokemon.org/home/docs/spriteindex_148/3d-models-generation-1-pok%C3%A9mon-r90/</a><br />
 </p></details>
 
-<details><summary><p>content management</p></summary>
+<p><details><summary>content management</p></summary>
 <p><a href="https://zonelets.net/" target="_blank">https://zonelets.net/</a><br />
 <a href="https://scumpsmallbrain.neocities.org/more/neoblog_guide" target="_blank">https://scumpsmallbrain.neocities.org/more/neoblog_guide</a><br />
 </p></details>
 
-<details><summary><p>host</p></summary>
+<p><details><summary>host</p></summary>
 <p><a href="https://nekoweb.org/" target="_blank">https://nekoweb.org/</a><br /></p>
 </details>
 
-<details><summary><p>css / code</p></summary>
+<p><details><summary>css / code</p></summary>
 <p><a href="http://www.mf2fm.com/rv/" target="_blank">http://www.mf2fm.com/rv/</a><br />
 <a href="https://webcode.tools/css-generator" target="_blank">https://webcode.tools/css-generator</a><br />
 <a href="https://www.htmldog.com/" target="_blank">https://www.htmldog.com/</a><br />
@@ -178,7 +178,7 @@ remove from backgrounds and add to this category
 <a href="http://www.stripegenerator.com/" target="_blank">http://www.stripegenerator.com/</a><br />
 </p></details>
 
-<details><summary><p>fonts</p></summary>
+<p><details><summary>fonts</p></summary>
 <p><a href="https://wordmark.it/" target="_blank">https://wordmark.it/</a><br />
 <a href="https://www.1001freefonts.com/" target="_blank">https://www.1001freefonts.com/</a><br />
 <a href="https://www.abstractfonts.com/" target="_blank">https://www.abstractfonts.com/</a><br />
@@ -187,19 +187,19 @@ remove from backgrounds and add to this category
 <a href="https://www.fontsquirrel.com/" target="_blank">https://www.fontsquirrel.com/</a><br />
 </p></details>
 
-<details><summary><p>colors</p></summary>
+<p><details><summary>colors</p></summary>
 <p><a href="https://supercolorpalette.com/" target="_blank">https://supercolorpalette.com/</a><br /></p></details>
 
-<details><summary><p>file management</p></summary>
+<p><details><summary>file management</p></summary>
 <p><a href="https://filegarden.com/" target="_blank">https://filegarden.com/</a><br />
 </p></details>
 
-<details><summary><p>other webdev tools</p></summary>
+<p><details><summary>other webdev tools</p></summary>
 <p><a href="https://theipsumcollection.com/" target="_blank">https://theipsumcollection.com/</a><br />
 <a href="https://www.deadlinkchecker.com/" target="_blank">https://www.deadlinkchecker.com/</a><br />
 </p></details>
 
-<details><summary><p>website reading</p></summary>
+<p><details><summary>website reading</p></summary>
 <p><a href="https://brutalist-web.design/" target="_blank">https://brutalist-web.design/</a><br />
 <a href="https://www.webdesignmuseum.org/" target="_blank">https://www.webdesignmuseum.org/</a><br />
 <a href="https://jamesg.blog/2024/02/19/personal-website-ideas/" target="_blank">https://jamesg.blog/2024/02/19/personal-website-ideas/</a><br />
@@ -213,22 +213,22 @@ remove from backgrounds and add to this category
 <a href="https://theultimatemotherfuckingwebsite.com/" target="_blank">https://theultimatemotherfuckingwebsite.com/</a><br />
 </p></details>
 
-<details><summary><p>web community</p></summary>
+<p><details><summary>web community</p></summary>
 <p><a href="https://personalsit.es/" target="_blank">https://personalsit.es/</a><br />
 <a href="https://m8.github.io/refined.blog/" target="_blank">https://m8.github.io/refined.blog/</a><br />
 </p></details>
 
-<details><summary><p>official art/image sharing [screencaps] —&gt; move this category from fandoms to graphic design</p></summary>
+<p><details><summary>official art/image sharing [screencaps] —&gt; move this category from fandoms to graphic design</p></summary>
 <p><a href="https://setteidreams.net/" target="_blank">https://setteidreams.net/</a><br />
 <a href="https://capshare.dreamwidth.org/" target="_blank">https://capshare.dreamwidth.org/</a><br />
 </p></details>
 
-<details><summary><p>resources</p></summary>
+<p><details><summary>resources</p></summary>
 <p><a href="https://filegarden.com/" target="_blank">https://filegarden.com/</a><br />
 <a href="https://www.deadlinkchecker.com/" target="_blank">https://www.deadlinkchecker.com/</a><br />
 </p></details>
 
-<details><summary><p>tools</p></summary>
+<p><details><summary>tools</p></summary>
 <p><a href="https://theuselessweb.com/" target="_blank">https://theuselessweb.com/</a><br />
 <a href="https://www.bitview.net/" target="_blank">https://www.bitview.net/</a><br />
 <a href="https://zebracrossing.narwhalacademy.org/" target="_blank">https://zebracrossing.narwhalacademy.org/</a><br />
@@ -237,7 +237,7 @@ remove from backgrounds and add to this category
 <a href="https://rentry.org/" target="_blank">https://rentry.org/</a><br />
 </p></details>
 
-<details><summary><p>games / meaningless fun</p></summary>
+<p><details><summary>games / meaningless fun</p></summary>
 <p><a href="https://aidn.jp/contents/" target="_blank">https://aidn.jp/contents/</a><br />
 <a href="https://r74n.com/" target="_blank">https://r74n.com/</a><br />
 <a href="https://netspeed.ichi.city/" target="_blank">https://netspeed.ichi.city/</a><br />
@@ -249,7 +249,7 @@ remove from backgrounds and add to this category
 <p><a href="https://www.uhs-hints.com/" target="_blank">https://www.uhs-hints.com/</a><br /></p>
 </details>
 
-<details><summary><p>social reading</p></summary>
+<p><details><summary>social reading</p></summary>
 <p><a href="https://holapapi.substack.com/p/angry-person" target="_blank">https://holapapi.substack.com/p/angry-person</a><br />
 <a href="https://www.swyx.io/learn-in-public" target="_blank">https://www.swyx.io/learn-in-public</a><br />
 <a href="https://infomesh.org/" target="_blank">https://infomesh.org/</a><br />
@@ -258,23 +258,23 @@ remove from backgrounds and add to this category
 <a href="https://www.vulture.com/2022/09/the-mixed-asian-metaphor.html" target="_blank">https://www.vulture.com/2022/09/the-mixed-asian-metaphor.html</a><br />
 </p></details>
 
-<details><summary><p>irl </p></summary>
+<p><details><summary>irl </p></summary>
 <p><a href="https://www.pillowfort.social/posts/5562812" target="_blank">https://www.pillowfort.social/posts/5562812</a><br />
 <a href="https://deathpenaltyaction.org/" target="_blank">https://deathpenaltyaction.org/</a><br />
 </p></details>
 
-<details><summary><p>shops</p></summary>
+<p><details><summary>shops</p></summary>
 <p><a href="https://jaxupcycled.com/" target="_blank">https://jaxupcycled.com/</a><br />
 <a href="https://transfigureprintco.com/" target="_blank">https://transfigureprintco.com/</a><br />
 </p></details>
 
-<details><summary><p>manifesto links</p></summary>
+<p><details><summary>manifesto links</p></summary>
 <p><a href="https://mycorrhiza.space/Garden/my_manifesto" target="_blank">https://mycorrhiza.space/Garden/my_manifesto</a><br />
 <a href="https://melonking.net/thoughts/manifesto" target="_blank">https://melonking.net/thoughts/manifesto</a><br />
 <a href="https://2x4.org/ideas/1996/designer-as-author/" target="_blank">https://2x4.org/ideas/1996/designer-as-author/</a><br />
 </p><</details>
 
-<details><summary><p>arrrgh</p></summary>
+<p><details><summary>arrrgh</p></summary>
 
 <p>update igglypuff's link <a href="https://github.com/Shakil-Shahadat/awesome-piracy" target="_blank">https://github.com/Shakil-Shahadat/awesome-piracy</a><br />
 <a href="https://thepiratebay.org/index.html" target="_blank">https://thepiratebay.org/index.html</a><br />
