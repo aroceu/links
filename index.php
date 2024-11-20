@@ -216,7 +216,7 @@ body{
     </div>
     
      <div id="frame">
-    <iframe src="main.php" name="iframe" height="955em" width="100%" title="IFrame" style="border: none;">
+    <iframe src="main.php" name="iframe" height="1050em" width="100%" title="IFrame" style="border: none;">
         
 
 
