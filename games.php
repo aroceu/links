@@ -25,7 +25,7 @@
 
 <h3>Resources</h3>
 <ul>
-<li><a href="https://www.uhs-hints.com/" target="_blank">https://www.uhs-hints.com/</a></li>
+<li><a href="https://www.uhs-hints.com/" target="_blank">Universal Hint System</a></li>
 </ul>
 
 

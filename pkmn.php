@@ -19,7 +19,7 @@
     <li><a href="https://pkmn.net/?action=content&page=viewpage&id=8644&parentsection=87" target="blank">Sprite Resource Download All Sprites</a></li>
     <li><a href="https://www.pkparaiso.com/espada_escudo/sprites_pokemon.php" target="blank">PkParaiso</a></li>
     <li><a href="https://shinyexe.neocities.org/sprites">shinyexe</a> (warning for audio on this site during link hovering)</li>
-    <li><a href="https://projectpokemon.org/home/docs/spriteindex_148/3d-models-generation-1-pok%C3%A9mon-r90/" target="_blank">https://projectpokemon.org/home/docs/spriteindex_148/3d-models-generation-1-pok%C3%A9mon-r90/</a></li>
+    <li><a href="https://projectpokemon.org/home/docs/spriteindex_148/3d-models-generation-1-pok%C3%A9mon-r90/" target="_blank">Project Pok&eacute;mon</a></li>
 </p>
 
 

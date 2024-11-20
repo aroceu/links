@@ -46,10 +46,10 @@
     <li><a href="https://strudelfatpaws.neocities.org" target="blank">strudelfatpaws</a></li>
     <li><a href="https://ne0nbandit.neocities.org/artwork" target="_blank">ne0nbandit's artwork</a></li>
     <li><a href="https://pklucky.neocities.org/art/" target="_blank">pklucky's art</a></li>
-    <li><a href="https://kiwimeowo.neocities.org/" target="_blank">https://kiwimeowo.neocities.org/</a></li>
-    <li><a href="https://ne0nbandit.neocities.org/artwork" target="_blank">https://ne0nbandit.neocities.org/artwork</a></li>
-    <li><a href="https://ultra-tetra.neocities.org/pickagallery" target="_blank">https://ultra-tetra.neocities.org/pickagallery</a></li>
-    <li><a href="https://sclptures.neocities.org/art#fulldrawings" target="_blank">https://sclptures.neocities.org/art#fulldrawings</a></li>
+    <li><a href="https://kiwimeowo.neocities.org/" target="_blank">kiwimeowo</a></li>
+    <li><a href="https://ne0nbandit.neocities.org/artwork" target="_blank">ne0nbandit's 'artwork</a></li>
+    <li><a href="https://ultra-tetra.neocities.org/pickagallery" target="_blank">ultra-tetra's galleries</a></li>
+    <li><a href="https://sclptures.neocities.org/art#fulldrawings" target="_blank">sclptures's art</a></li>
 
 </ul>
 

@@ -38,8 +38,8 @@
 
 </ul>
 
-<h3>Reading (internet/web commentary)</h3>
-
+<h3>Internet/web commentary</h3>
+<ul>
     <li><a href="https://synecdochic.dreamwidth.org/234496.html" target="blank">Why Monetizing Social Media Through Advertising Is Doomed To Failure</a></li>
     <li><a href="https://www.cluetrain.com/" target="blank">The Cluetrain Manifesto</a></li>
     <li><a href="https://www.deceptive.design/" target="blank">Deceptive Design</a></li>

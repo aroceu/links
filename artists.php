@@ -61,7 +61,7 @@
         <li><a href="https://www.renpy.org/" target="blank">Renpy</a> (visual novels)</li>
     <li><a href="https://www.nishishi.com/cgi/tegalog/" target="blank">tegalog</a> (lightweight content management)</li>
     <li><a href="https://github.com/rr-/szurubooru" target="blank">szurubooru</a> (danbooru fork)</li>
-    <li><a href="https://github.com/moebooru/moebooru" target="blank">moebooru"</a> (danbooru fork)</li>
+    <li><a href="https://github.com/moebooru/moebooru" target="blank">moebooru</a> (danbooru fork)</li>
     <li><a href="https://fancyapps.com/fancybox/" target="_blank">fancybox</a></li>
 </ul>
 
