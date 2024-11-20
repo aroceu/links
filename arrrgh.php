@@ -16,6 +16,7 @@
 </ul>
 
 <h3>Movies/TV/Streaming</h3>
+<ul>
     <li><a href="https://docs.google.com/document/d/16OvPb7EstgG_ofk4KPmgRfaRot42IKs-a8kOILWNT9I/edit#heading=h.m1iva4miu4gg" target="blank">Film Books</a></li>
     <li><a href="https://drive.google.com/drive/u/0/folders/1RLaJacZV82VKpxk7Iz5zlG56Avu0bJ8K" target="blank">Books about psych, mental health, abuse, and toxicity</a></li>
     <li><a href="https://wetv.vip/en/play/znvxrcx4ooav6tz-The%20Untamed%20Special%20Edition/r0033wzvqhx-EP1%3A%20The%20Untamed%20Special%20Edition" target="blank">CQL on WeTV</a></li>
@@ -24,20 +25,25 @@
     <li><a href="https://www.wcofun.net/" target="_blank">WatchCOnlineFun</a></li>
     <li><a href="https://www.wcostream.tv/" target="_blank">WCOStream</a></li>
     <li><a href="https://leonflix.net/" target="_blank">Leonflix</a> (software)</li>
+</ul>
 
 
 <h3>Books</h3>
+<ul>
     <li><a href="https://docs.google.com/document/d/16OvPb7EstgG_ofk4KPmgRfaRot42IKs-a8kOILWNT9I/edit#heading=h.m1iva4miu4gg" target="blank">Film Books</a></li>
     <li><a href="https://it-ebooks.info/" target="_blank">IT eBooks</a></li>
     <li><a href="https://mangadex.org/" target="_blank">Manga Dex</a></li>
+</ul>
 
 <h3>Audiobooks</h3>
+
+<ul>
 
     <li><a href="https://audiobookbay.lu/" target="_blank">audiobookbay</a></li>
     <li><a href="https://booksonic.org/" target="_blank">booksonic.org/</a></li>
     <li><a href="https://hdaudiobooks.net/" target="_blank">HD Audio Books</a></li>
     <li><a href="https://bookaudiobook.net/" target="_blank">bookaudiobook</a></li>
-
+</ul>
 
 <h3>Games</h3>
 
@@ -74,7 +80,7 @@
     <li><a href="https://the-eye.eu/public/" target="_blank">The Eye</a></li>
     <li><a href="https://web.archive.org/web/20210322135046/https://www.freeware-guide.com/" target="_blank">Freeware</a></li>
 
-
+</ul>
 <h3>Darkweb</h3>
 
 <ul>
