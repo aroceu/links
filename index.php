@@ -54,7 +54,8 @@
 	
 	
 	a:hover{
-	    color: #89C8C9;
+	    color: #13786F;
+	        box-shadow: inset 0px -8px 0 0px #d3e4eb; /** lt blue **/
 	    text-decoration: none;
 	}
 	
