@@ -12,7 +12,4 @@ The passion project aspect is based on my ideas of digital archiving&mdash;but y
 - Mobile and tablet responsive
 - *The Sea at Les Saintes-Maries-de-la-Mer* (1888) by Vincent Van Gogh
 
-# notes
-There will be no changelog for this site because I'm adding to it regularly across a variety of categories at a time; though I think archiving changes is fun, I don't want to go too crazy with it. Still, you can see the changes as they occur in this repository's updates.
-
 The design is intentionally simple to keep the focus on the dense collections of links.
