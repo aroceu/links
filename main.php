@@ -17,5 +17,5 @@
 
 <p>All internal links on this site open in an iframe. Feel free to open them into separate windows for convenient reading and linking when necessary.</p>
 
-<p><a href="palestine.php" target="iframe"><img src="bufreepalestine.gif" alt="Free Palestine button"></a> <img src="piracy.gif" alt="Piracy now button"> <img src="lol.png" alt="Check the source code button"></p>
+<p><img src="links88x31.png"> <a href="palestine.php" target="iframe"><img src="bufreepalestine.gif" alt="Free Palestine button"></a> <img src="piracy.gif" alt="Piracy now button"> <img src="lol.png" alt="Check the source code button"></p>
 
