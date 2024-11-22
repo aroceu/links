@@ -24,6 +24,10 @@
         <li><a href="http://lilaclynx.net/hydra.html" target="blank">The Fifty Headed Hydra</a></li>
         <li><a href="http://lilaclynx.net/wordcount.html" target="blank">A Word Crawl for the Motivationally Challenged!</a></li>
         <li><a href="http://lilaclynx.net/wod.html" target="blank">JSanderson's Write or Die Clone</a></li>
+        <li><a href="https://ganelson.github.io/inform-website/" target="_blank">Inform 7</a> (interactive fiction)</li>
+        <li><a href="https://twinery.org/" target="_blank">Twinery</a> (interactive fiction)</li>
+        <li><a href="https://www.renpy.org/" target="_blank">Renpy</a> (visual novels)</li>
+
 </ul>
 
 

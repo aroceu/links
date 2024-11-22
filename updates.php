@@ -6,10 +6,17 @@
 
 <p>A log of new links loosely by organization, and a simplistic way to keep up with updates.</p>
 
+<details><summary><b>November 22, 2024</b></summary>
+
+	<p><a href="https://ganelson.github.io/inform-website/">https://ganelson.github.io/inform-website/</a>
+	<br /><a href="https://twinery.org/">https://twinery.org/</a></p>
+
+</details>
+
 <details><summary><b>November 21, 2024</b></summary>
 
-	<p><a href="https://murid.neocities.org/write_fall#homepage">https://murid.neocities.org/write_fall#homepage</a> (manifesto)</p>
-	<p><a href="https://murid.neocities.org/write_fall#prayer">https://murid.neocities.org/write_fall#prayer</a> (about, here)</p>
+	<p><a href="https://murid.neocities.org/write_fall#homepage">https://murid.neocities.org/write_fall#homepage</a> (manifesto)
+		<br /><a href="https://murid.neocities.org/write_fall#prayer">https://murid.neocities.org/write_fall#prayer</a> (about, here)</p>
 
 </details>
 
