@@ -37,7 +37,8 @@
 <ul><li><a href="https://thoughts.melonking.net/thoughts/every-site-needs-a-links-page-why-linking-matters" target="blank">Every site needs a Links Page / Why linking matters</a></li>
     <li><a href="https://art.teleportacia.org/observation/vernacular/links.html" target="blank">Links: from Olia Lialina's talk, "Vernacular Web"</a></li>
     <li><a href="https://www.kickscondor.com/foundations-of-a-tiny-directory/" target="blank">Foundations of a Tiny Directory</a></li>
-            		<li><a href="https://neonaut.neocities.org/cyber/crypt/" target="blank">Cyber Mausoleums (Or the Argument Against Deletion)</a></li>
+    <li><a href="https://neonaut.neocities.org/cyber/crypt/" target="blank">Cyber Mausoleums (Or the Argument Against Deletion)</a></li>
+    <li><a href="https://murid.neocities.org/write_fall#prayer" target="blank">Links are the prayers of the internet</a></li>
 </ul>
 
 <h3>if there's something missing...</h3>

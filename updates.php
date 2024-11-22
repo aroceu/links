@@ -6,6 +6,13 @@
 
 <p>A log of new links loosely by organization, and a simplistic way to keep up with updates.</p>
 
+<details><summary><b>November 21, 2024</b></summary>
+
+	<p><a href="https://murid.neocities.org/write_fall#homepage">https://murid.neocities.org/write_fall#homepage</a> (manifesto)</p>
+	<p><a href="https://murid.neocities.org/write_fall#prayer">https://murid.neocities.org/write_fall#prayer</a> (about, here)</p>
+
+</details>
+
 <details><summary><b>November 20, 2024</b></summary>
 
 <p>this is new!!</p>
