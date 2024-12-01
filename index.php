@@ -159,7 +159,7 @@ body{
     
 </ul>
 
-<p><i>If you are viewing this on mobile, please make use of your browser's back/forward button to navigate between pages.</i></p>
+<p><i>Please make use of your browser's back/forward button to navigate between pages.</i></p>
         </div>
     
     <div id="sidebar">
