@@ -63,7 +63,7 @@
 	    display: none;
 	}
 	
-	@media only screen and (max-width: 430px) and (min-width: 0px) {
+	@media only screen and (max-width: 810px) and (min-width: 0px) {
 
 html {
 -webkit-text-size-adjust: none;
