@@ -33,6 +33,7 @@
     <li><a href="https://docs.google.com/document/d/16OvPb7EstgG_ofk4KPmgRfaRot42IKs-a8kOILWNT9I/edit#heading=h.m1iva4miu4gg" target="blank">Film Books</a></li>
     <li><a href="https://it-ebooks.info/" target="_blank">IT eBooks</a></li>
     <li><a href="https://mangadex.org/" target="_blank">Manga Dex</a></li>
+    <li><a href="https://spiritcellar.neocities.org/library">spiritcellar's library</a></li>
 </ul>
 
 <h3>Audiobooks</h3>

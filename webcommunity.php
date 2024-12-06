@@ -36,6 +36,7 @@
     <li><a href="https://personalsit.es/" target="_blank">PersonalSit.es</a></li>
     <li><a href="https://m8.github.io/refined.blog/" target="_blank">Refined Blog</a> (dev blogs)</li>
     <li><a href="https://curlie.org/" target="_blank">Curlie.org</a> (search human-generated sites)</li>
+    <li><a href="https://brisray.com/web/webring-list.htm" target="_blank">Webring List at brisray.com</a></li>
 </ul>
 
 <h3>Cliques (I haven't joined, but others may be interested in)</h3>

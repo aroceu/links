@@ -74,8 +74,14 @@
     <li><a href="https://foollovers.com/" target="_blank">foollovers</a></li>
 	<li><a href="https://keysklubhouse.com/" target="_blank">Key's Klubhouse</a></li>
 	<li><a href="https://eggramen.neocities.org/code/css_testpages" target="_blank">eggramen's CSS</a></li>
-	<li><a href="https://ribo.zone/free/" target="blank">ribo.zone's free content</a>
-    
+	<li><a href="https://ribo.zone/free/" target="blank">ribo.zone's free content</a></li>
+	<li><a href="https://websetsbylynn.neocities.org/" target="_blank">Websets By Lynn</a></li>
+    <li><a href="" target="_blank"></a></li>
+<li><a href="https://cepheus.neocities.org/stars/" target="_blank">cepheus at neocities</a></li>
+<li><a href="https://epicfranb.nekoweb.org/graphics" target="_blank">graphics at epicfranb</a></li>
+<li><a href="https://sakuradreams.neocities.org/" target="_blank">Sakura Dreams</a></li>
+<li><a href="https://www.asterism-m.com/" target="_blank">asterism-m</a></li>
+
 </ul>
 
 <h3 id="troubleshooting">Responsiveness</h3>
@@ -138,6 +144,8 @@
 	<li><a href="https://www.image-map.net/" target="_blank">Image Map</a></li>
 	<li><a href="https://snipplr.com/" target="_blank">Snipplr</a></li>
 	<li><a href="http://www.stripegenerator.com/" target="_blank">Stripe Generator (CSS)</a></li>
+	<li><a href="https://surfing-waves.com/feed.htm" target="_blank">Free RSS Widget</a></li>
+	<li><a href="https://shivrm.bearblog.dev/yet-another-old-toast-button/" target="_blank">Toast Button</a></li>
 	
 </ul>
 	
@@ -164,6 +172,7 @@
 	<li><a href="https://cssgridgarden.com/" target="blank">Grid Garden</a></li>
 	<li><a href="https://neonaut.neocities.org/brain/image-compression" target="blank">Become a Compression Sorcerer</a></li>
 	<li><a href="http://lilaclynx.net/responsive.html" target="blank">Making your site look good on mobile</a></li>
+	<li><a href="https://web.archive.org/web/20020815164427if_/http://www.peachie.nu/quizcode.html">Personality Quiz Code</a></li>
 
 </ul>
 	

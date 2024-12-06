@@ -20,6 +20,8 @@
     <li><a href="https://the-simple-site.neocities.org/" target="_blank">the-simple-site.neocities.org</a></li>
     <li><a href="https://ncase.me/" target="_blank">Games by Nicky Case</a></li>
     <li><a href="https://momg.neocities.org/" target="_blank">momg.neocities.org</a></li>
+    <li><a href="https://trustandsafety.fun/" target="_blank">Trust & Safety Fun</a></li>
+    <li><a href="https://superbad.com" target="_blank">Superbad.com</a></li>
     </li>
 </ul>
 

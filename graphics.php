@@ -20,6 +20,7 @@
         <li><a href="https://benisland.neocities.org/petpet/" target="_blank">Petpet maker at Benis Land</a></li>
         <li><a href="https://kidpix.app/" target="_blank">Kid Pix</a></li>
         <li><a href="https://asciiart.club/" target="_blank">ASCII Art</a></li>
+            <li><a href="https://websetsbylynn.neocities.org/" target="_blank">Websets By Lynn</a></li>
 </ul>
 
 <h3>Buttons/Stamps/Blinkies</h3>
@@ -99,6 +100,7 @@
 <h3 id="psd">Photoshop/PSDs and other creativity aspects</h3>
 
 <ul>
+    <li><a href="https://maple.pet/photoshop/neon-signs" target="_blank">Neon signs tutorial</a></li>
 	<li><a href="https://cptsmallass.tumblr.com/tagged/resources" target="blank">tag on cptsmallass</a></li>
 	<li>check the code on this page more, there's a bunch of tutorials on Tumblr that may be subject to link rot so I'm not listing them all here but they're currently still up</li>
 <!-- 

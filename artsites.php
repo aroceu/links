@@ -7,52 +7,6 @@
 
 <p>If you'd like to browse more personal websites by creatives, check out my button wall <a href="https://kingdra.net/sites.php">here</a>.</p>
 
-<h3>Neocities</h3>
-<ul>
-    <li><a href="https://haii2u.neocities.org/" target="blank">haii2u</a></li>
-    <li><a href="https://flowerdogtan.neocities.org/" target="blank">flowerdogtan</a></li>
-    <li><a href="https://ursaaves.neocities.org/" target="blank">ursaaves</a></li>
-    <li><a href="https://goatgirl.neocities.org/" target="blank">goatgirl</a></li>
-    <li><a href="https://greymornings.neocities.org/art" target="blank">greymornings's art</a></li>
-    <li><a href="https://snacksgg.neocities.org/gallery" target="blank">snacksgg's gallery</a></li>
-    <li><a href="https://pokedoodles.neocities.org/" target="blank">pokedoodles</a></li>
-    <li><a href="https://pixelmiser.neocities.org/" target="blank">pixelmiser</a></li>
-    <li><a href="https://ecocidee.neocities.org/Gallery" target="blank">ecocidee's gallery</a></li>
-    <li><a href="https://pippington.neocities.org/" target="blank">pippington</a></li>
-    <li><a href="https://chilliartgallery.neocities.org/" target="blank">chilliartgallery</a></li>
-    <li><a href="https://turbuggy.neocities.org/gallery/ " target="blank">turbuggy's gallery</a></li>
-    <li><a href="https://themiles.neocities.org/Gallery" target="blank">themiles's gallery</a></li>
-    <li><a href="https://averyprobably.neocities.org/gallery" target="blank">averyprobably's gallery</a></li>
-    <li><a href="https://fridgefeet.neocities.org/fanart-chronologic" target="blank">fridgefeet's fanart (chronologically)</a></li>
-    <li><a href="https://psshaw.neocities.org/gallerie" target="blank">psshaw's gallerie</a></li>
-    <li><a href="https://obliviousally.neocities.org/" target="blank">obliviousally</a></li>
-    <li><a href="https://punkray.neocities.org/" target="blank">punkray</a></li>
-    <li><a href="https://leusyth.neocities.org/" target="blank">leusyth</a></li>
-    <li><a href="https://xomii.neocities.org/" target="blank">xomii</a></li>
-    <li><a href="https://5amgirlfriend.neocities.org/" target="blank">5amgirlfriend</a></li>
-    <li><a href="https://grumpycyclops.neocities.org/light/home" target="blank">grumpycyclops</a></li>
-    <li><a href="https://chocolaterevel.neocities.org/2.0/Default/Home" target="blank">chocolaterevel</a></li>
-    <li><a href="https://strawberryreverie.neocities.org/yume/art" target="blank">strawberryreverie's yume art</a></li>
-    <li><a href="https://mn1ca.neocities.org/" target="blank">mn1ca</a></li>
-    <li><a href="https://sinistersuns.neocities.org/gallery/" target="blank">sinistersuns's gallery</a></li>
-    <li><a href="https://petrapixel.neocities.org/creations/art" target="blank">petrapixel's art</a></li>
-    <li><a href="https://turd.neocities.org/creations" target="blank">turd's creations</a></li>
-    <li><a href="https://mordu.neocities.org/gallery" target="blank">mordu's gallery</a></li>
-    <li><a href="https://serpentinemalign.neocities.org/art" target="blank">serpentinemalign's art</a></li>
-    <li><a href="https://100years.neocities.org/" target="blank">100years</a></li>
-    <li><a href="https://bechnokid.neocities.org/artwork/" target="blank">bechnokid's artwork</a></li>
-    <li><a href="https://cloverbell.neocities.org/artgallery" target="blank">cloverbell's art gallery</a></li>
-    <li><a href="https://atelier2079.neocities.org/" target="blank">atelier2079</a></li>
-    <li><a href="https://strudelfatpaws.neocities.org" target="blank">strudelfatpaws</a></li>
-    <li><a href="https://ne0nbandit.neocities.org/artwork" target="_blank">ne0nbandit's artwork</a></li>
-    <li><a href="https://pklucky.neocities.org/art/" target="_blank">pklucky's art</a></li>
-    <li><a href="https://kiwimeowo.neocities.org/" target="_blank">kiwimeowo</a></li>
-    <li><a href="https://ne0nbandit.neocities.org/artwork" target="_blank">ne0nbandit's 'artwork</a></li>
-    <li><a href="https://ultra-tetra.neocities.org/pickagallery" target="_blank">ultra-tetra's galleries</a></li>
-    <li><a href="https://sclptures.neocities.org/art#fulldrawings" target="_blank">sclptures's art</a></li>
-
-</ul>
-
 <h3>Custom Domains; may be hosted on Neocities or elsewhere</h3> 
 <ul>
         <li><a href="https://kradeelav.com/" target="blank">kradeelav.com</a></li>
@@ -103,6 +57,60 @@
 <li><a href="https://jakechirak.com/gallery" target="_blank">jakechirak's gallery</a></li>
 <li><a href="https://wasongo.art/" target="_blank">wasongo.art</a></li>
 <li><a href="https://yamasztuka.com/gallery.html" target="_blank">yamasztuka's gallery</a></li>
-
+<li><a href="https://spiritcellar.art/" target="_blank">spiritcellar.art</a></li>
+<li><a href="https://symliadoo.com/" target="_blank">symliadoo</a></li>
+<li><a href="https://bridget.party/art" target="_blank">bridget party's art</a></li>
+<li><a href="https://armaina.com/" target="_blank">armaina.com</a></li>
+<li><a href="https://cloverso.me/art/" target="_blank">cloversome's art</a></li>
     
 </ul>
+
+<h3>Neocities</h3>
+<ul>
+    <li><a href="https://haii2u.neocities.org/" target="blank">haii2u</a></li>
+    <li><a href="https://flowerdogtan.neocities.org/" target="blank">flowerdogtan</a></li>
+    <li><a href="https://ursaaves.neocities.org/" target="blank">ursaaves</a></li>
+    <li><a href="https://goatgirl.neocities.org/" target="blank">goatgirl</a></li>
+    <li><a href="https://greymornings.neocities.org/art" target="blank">greymornings's art</a></li>
+    <li><a href="https://snacksgg.neocities.org/gallery" target="blank">snacksgg's gallery</a></li>
+    <li><a href="https://pokedoodles.neocities.org/" target="blank">pokedoodles</a></li>
+    <li><a href="https://pixelmiser.neocities.org/" target="blank">pixelmiser</a></li>
+    <li><a href="https://ecocidee.neocities.org/Gallery" target="blank">ecocidee's gallery</a></li>
+    <li><a href="https://pippington.neocities.org/" target="blank">pippington</a></li>
+    <li><a href="https://chilliartgallery.neocities.org/" target="blank">chilliartgallery</a></li>
+    <li><a href="https://turbuggy.neocities.org/gallery/ " target="blank">turbuggy's gallery</a></li>
+    <li><a href="https://themiles.neocities.org/Gallery" target="blank">themiles's gallery</a></li>
+    <li><a href="https://averyprobably.neocities.org/gallery" target="blank">averyprobably's gallery</a></li>
+    <li><a href="https://fridgefeet.neocities.org/fanart-chronologic" target="blank">fridgefeet's fanart (chronologically)</a></li>
+    <li><a href="https://psshaw.neocities.org/gallerie" target="blank">psshaw's gallerie</a></li>
+    <li><a href="https://obliviousally.neocities.org/" target="blank">obliviousally</a></li>
+    <li><a href="https://punkray.neocities.org/" target="blank">punkray</a></li>
+    <li><a href="https://leusyth.neocities.org/" target="blank">leusyth</a></li>
+    <li><a href="https://xomii.neocities.org/" target="blank">xomii</a></li>
+    <li><a href="https://5amgirlfriend.neocities.org/" target="blank">5amgirlfriend</a></li>
+    <li><a href="https://grumpycyclops.neocities.org/light/home" target="blank">grumpycyclops</a></li>
+    <li><a href="https://chocolaterevel.neocities.org/2.0/Default/Home" target="blank">chocolaterevel</a></li>
+    <li><a href="https://strawberryreverie.neocities.org/yume/art" target="blank">strawberryreverie's yume art</a></li>
+    <li><a href="https://mn1ca.neocities.org/" target="blank">mn1ca</a></li>
+    <li><a href="https://sinistersuns.neocities.org/gallery/" target="blank">sinistersuns's gallery</a></li>
+    <li><a href="https://petrapixel.neocities.org/creations/art" target="blank">petrapixel's art</a></li>
+    <li><a href="https://turd.neocities.org/creations" target="blank">turd's creations</a></li>
+    <li><a href="https://mordu.neocities.org/gallery" target="blank">mordu's gallery</a></li>
+    <li><a href="https://serpentinemalign.neocities.org/art" target="blank">serpentinemalign's art</a></li>
+    <li><a href="https://100years.neocities.org/" target="blank">100years</a></li>
+    <li><a href="https://bechnokid.neocities.org/artwork/" target="blank">bechnokid's artwork</a></li>
+    <li><a href="https://cloverbell.neocities.org/artgallery" target="blank">cloverbell's art gallery</a></li>
+    <li><a href="https://atelier2079.neocities.org/" target="blank">atelier2079</a></li>
+    <li><a href="https://strudelfatpaws.neocities.org" target="blank">strudelfatpaws</a></li>
+    <li><a href="https://ne0nbandit.neocities.org/artwork" target="_blank">ne0nbandit's artwork</a></li>
+    <li><a href="https://pklucky.neocities.org/art/" target="_blank">pklucky's art</a></li>
+    <li><a href="https://kiwimeowo.neocities.org/" target="_blank">kiwimeowo</a></li>
+    <li><a href="https://ne0nbandit.neocities.org/artwork" target="_blank">ne0nbandit's 'artwork</a></li>
+    <li><a href="https://ultra-tetra.neocities.org/pickagallery" target="_blank">ultra-tetra's galleries</a></li>
+    <li><a href="https://sclptures.neocities.org/art#fulldrawings" target="_blank">sclptures's art</a></li>
+    <li><a href="https://psshaw.neocities.org/gallerie" target="_blank">psshaw's gallerie</a></li>
+    <li><a href="https://lazer-bunny.neocities.org/Art" target="_blank">lazer-bunny's art</a></li>
+
+
+</ul>
+

@@ -5,6 +5,7 @@
 <h2>Links to lists of assortments of other links</h2>
 
 <ul>
+    <li><a href="https://cloverso.me/links/" target="_blank">cloversome's links</a></li>
     <li><a href="https://hillhouse.neocities.org/links" target="blank">hillhouse's links</a></li>
     <li><a href="https://kalechips.net/links/" target="blank">Kalechips' links</a></li>
     <li><a href="https://vastrecs.neocities.org/links/" target="blank">Vastrecs' Links</a></li>
@@ -42,6 +43,19 @@
 <li><a href="https://pklucky.neocities.org/cool-sites/" target="_blank">pklucky's collection of cool sites</a></li>
 <li><a href="https://faeraphim.net/www/web-resources.htm" target="_blank">faeraphim's web resources</a></li>
 <li><a href="https://peelopaalu.neocities.org/" target="_blank">peelopaalu</a></li>
+<li><a href="https://chxshire22.com/links/" target="_blank">chxshire22's links</a></li>
+<li><a href="https://kero.gay/links" target="_blank">kero.gay's links</a></li>
+<li><a href="https://cepheus.neocities.org/04" target="_blank">cepheus's link archive</a></li>
+<li><a href="https://justfluffingaround.neocities.org/resources" target="_blank">justfluffingaround's resources</a></li>
+<li><a href="https://melaaaa.neocities.org/links" target="_blank">melaaaa's links</a></li>
+<li><a href="https://lazer-bunny.neocities.org/Resources" target="_blank">lazer-bunny's resources</a></li>
+<li><a href="https://censorine.com/directory" target="_blank">censorine's directory</a></li>
+<li><a href="https://ocean-waves.xyz/links" target="_blank">ocean-waves's links</a></li>
+<li><a href="https://y2k.neocities.org/bookmarks" target="_blank">bookmarks at y2k</a></li>
+<li><a href="https://dog-house.neocities.org/links" target="_blank">links at dog-house</a></li>
+<li><a href="https://irony-machine.neocities.org/links/" target="_blank">links at irony-machine</a></li>
+<li><a href="https://karuma.me/resources/" target="_blank">karuma.me's resources</a></li>
+<li><a href="https://www.hellomei.dev/links" target="_blank">links at hellomei</a></li>
     
 </ul>
 

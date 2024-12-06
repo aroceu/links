@@ -54,6 +54,10 @@
  <li><a href="https://theultimatemotherfuckingwebsite.com/" target="_blank">The Ultimate Motherfucking Website</a></li>
  <li><a href="https://infomesh.org/" target="_blank">Infomesh</a></li>
  <li><a href="https://thehistoryoftheweb.com/" target="_blank">The History of the Web</a></li>
+ <li><a href="https://shellsharks.com/notes/2024/11/15/cloudy-with-a-chance-of-not-enshittifying" target="_blank">Cloudy with a chance of not enshittifying</a></li>
+  <li><a href="https://shellsharks.com/you-should-blog" target="_blank">You should blog</a></li>
+   <li><a href="https://smallweb.thecozy.cat/blog/introduction-to-the-small-web-movement/" target="_blank">Introduction to the Small Web Movement: A New Era of Digital Freedom</a></li>
+
 </ul>
 
 

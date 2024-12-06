@@ -9,6 +9,7 @@
     <li><a href="https://github.com/everestpipkin/tools-list" target="blank">Open source, experimental, and tiny tools roundup</a></li>
      <li><a href="https://cobalt.tools/" target="blank">Cobalt Tools</a></li>
     <li><a href="https://duckduckgo.com/" target="blank">Duck Duck Go</a></li>
+    <li><a href="https://search.marginalia.nu/">Search via Marginalia</a></li>
     <li><a href="https://textadventures.co.uk/squiffy" target="blank">Squiffy - A simple way to write interactive fiction</a></li>
         <li><a href="https://catbox.moe/" target="blank">Catbox (file sharing)</a></li>
     <li><a href="https://gist.github.com/philipjewell/a9e1eae2d999a2529a08c15b06deb13d" target="blank">Download all your photobucket images in bulk via CLI</a></li>
@@ -28,6 +29,9 @@
  <li><a href="https://www.bitview.net/" target="_blank">Bitview</a> (youtube knockoff)</li>
  <li><a href="https://zebracrossing.narwhalacademy.org/" target="_blank">Zebra Crossing</a> (digital safety checklist)</li>
  <li><a href="https://rentry.org/" target="_blank">Rentry</a> (share text/links/markup files anonymously) </li>
+     <li><a href="https://letsdecentralize.org/" target="_blank">Let's Decentralize</a></li>
+     <li><a href="https://landchad.net/" target="_blank">Landchad.net</a></li>
+
 </p>
 </p>
     

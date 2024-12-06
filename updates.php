@@ -6,6 +6,109 @@
 
 <p>A log of new links loosely by organization, and a simplistic way to keep up with updates.</p>
 
+<details><summary><b>December 6, 2024</b></summary>
+
+
+<p>not all of these have been added</p>
+
+<p>fic site but not an old one (not added but archiving here anyway)
+<br />https://tre.praze.net/</p>
+
+<p>join
+https://meowbark2000.neocities.org/Cliques/FujoshiWeb</p>
+
+<p>games/socmed
+https://trustandsafety.fun/</p>
+
+<p>webrings!
+https://brisray.com/web/webring-list.htm</p>
+
+<p>reading
+<br />https://shellsharks.com/notes/2024/11/15/cloudy-with-a-chance-of-not-enshittifying
+<br />https://shellsharks.com/you-should-blog
+<br />https://smallweb.thecozy.cat/blog/introduction-to-the-small-web-movement/
+</p>
+
+<p>graphic design tutorials
+https://maple.pet/photoshop/neon-signs</p>
+
+<p>webdev tools
+<br />https://surfing-waves.com/feed.htm
+<br />https://websetsbylynn.neocities.org/
+<br />https://shivrm.bearblog.dev/yet-another-old-toast-button/
+<br />https://web.archive.org/web/20020815164427if_/http://www.peachie.nu/quizcode.html</p>
+
+<p>tutorial
+https://smallweb.thecozy.cat/blog/beginners-guide-to-crafting-your-first-website/</p>
+
+<p>links
+<br />https://cloverso.me/links/
+<br />https://smallweb.thecozy.cat/resources-archive/
+<br />https://chxshire22.com/links/
+<br />https://kero.gay/links
+<br />https://cepheus.neocities.org/04
+<br />https://justfluffingaround.neocities.org/resources
+<br />https://melaaaa.neocities.org/links
+<br />https://lazer-bunny.neocities.org/Resources
+<br />https://censorine.com/directory
+<br />https://ocean-waves.xyz/links
+<br />https://y2k.neocities.org/bookmarks
+<br />https://dog-house.neocities.org/links
+<br />https://irony-machine.neocities.org/links/
+<br />https://karuma.me/resources/
+<br />https://www.hellomei.dev/links</p>
+
+<p>manifesto links
+<br />https://neonriser.neocities.org/manifesto
+<br />https://blog.neocities.org/blog/2013/05/28/making-the-web-fun-again
+<br />[read later] https://benhoyt.com/writings/the-small-web-is-beautiful/
+<br />https://gildedware.neocities.org/manifesto
+<br />[read later] https://web.archive.org/web/20200220031406/https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/
+<br />[read later] https://christianheilmann.com/2021/12/20/the-web-starts-on-page-four/
+<br />[read later] https://adactio.com/articles/1522/
+<br />https://kiriska.com/blog/2022/your-website-is-useless/</p>
+
+<p>art
+<br />https://spiritcellar.art/
+<br />https://symliadoo.com/
+<br />https://lazer-bunny.neocities.org/Art
+<br />https://bridget.party/art
+<br />https://armaina.com/
+<br />https://psshaw.neocities.org/gallerie
+<br />https://cloverso.me/art/</p>
+
+<p>art site resource links
+https://armaina.com/reso.html</P>
+
+<p>content sites
+<br />https://cepheus.neocities.org/stars/
+<br />https://epicfranb.nekoweb.org/graphics
+<br />https://sakuradreams.neocities.org/
+<br />https://www.asterism-m.com/</p>
+
+<p>website community stuff
+https://brisray.com/web/webring-list.htm</p>
+
+<p>online books
+https://spiritcellar.neocities.org/library</p>
+
+<p>https://letsdecentralize.org/ 
+<br />https://search.marginalia.nu/ <-- non-corporate website search
+<br />https://landchad.net/<-- tutorial for setting up own server (a real bookmark)</p>
+
+<p>maybe for later
+https://fediring.net/</p>
+
+<p>https://bukmark.club/
+<br />https://www.wendycarlos.com/live.html
+<br />https://superbad.com</p>
+
+<p>download sprites for pokemon secret base stuff
+<br />https://www.serebii.net/pokemon_advance/base/index.shtml
+<br />https://www.spriters-resource.com/game_boy_advance/pokemonrubysapphire/</p>
+
+</p></details>
+
 <details><summary><b>November 22, 2024</b></summary>
 
 	<p><a href="https://ganelson.github.io/inform-website/">https://ganelson.github.io/inform-website/</a>
