@@ -78,7 +78,7 @@
 
 <h3>Indie Hosts</h3>
 
-<p>Alternatives to Neocities or exorbitantly expensive hosting sites. These are good places to start, but check out my <a href="https://kingdra.net/links/web.php">webdev resources (click)</a> for more! <b>Note:</b> <font color=red>Wix is owned by Zionists</font>.</p>
+<p>Alternatives to Neocities or exorbitantly expensive hosting sites. These are good places to start, but check out my <a href="https://kingdra.net/links/web.php">webdev resources (click)</a> for more!</p>
 <ul>
     <li><a href="https://nekoweb.org/" target="blank">Nekoweb</a></li>
     <li><a href="https://teacake.org/" target="blank">Teacake</a></li>
