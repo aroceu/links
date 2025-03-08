@@ -4,6 +4,8 @@
 
 <h1>updates</h1>
 
+<p><b><i>Note:</i></b> This site gets updated when I feel like it.</p>
+
 <p>A log of new links loosely by organization, and a simplistic way to keep up with updates.</p>
 
 <details><summary><b>December 6, 2024</b></summary>
