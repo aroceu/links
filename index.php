@@ -6,6 +6,10 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<meta name="description" content="A directory of assorted links."/>
 	<link rel="shortcut icon" type="image/x-icon" href="https://kingdra.net/links/link.ico" />
+	<meta property="og:title" content="links • kingdra.net" />
+	<meta property="og:description" content="A directory of assorted links." />
+	<meta property="og:image" content="preview.png" />
+	<meta property="og:url" content="https://kingdra.net/links/" />
 
 
 	<title>links &bull; kingdra.net</title>
