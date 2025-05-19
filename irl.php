@@ -19,18 +19,13 @@
     <li><a href="https://seperis.dreamwidth.org/1081015.html" target="blank">Detail of using Home Assistant by seperis</a> (<a href="https://www.home-assistant.io/">Home Assistant</a>)</li>
     <li><a href="https://www.pillowfort.social/posts/5562812" target="_blank">Resources for online privacy, activism and community building.</a></li>
     <li><a href="https://deathpenaltyaction.org/" target="_blank">Death Penalty Action</a></li>
+    <li><a href="https://grackle.neocities.org/" target="_blank">LGBT Resources</a></li>
     
     </ul>
     
-<h2>Shopping</h2>
-
-<p>Not endorsements, just random online shops/brands that I've enjoyed buying stuff from before.</p>
+<h2>Progressive Shopping</h2>
 
 <ul>
-    <li><a href="https://cottonon.com/AU/typo-home/" target="blank">CottonOn/Typo</a></li>
-    <li><a href="https://www.threadless.com/" target="blank">Threadless</a></li>
-    <li><a href="https://www.blippo.com/" target="blank">Blippo</a></li>
-    <li><a href="https://www.trinketgeek.com/" target="blank">TrinketGeek</a></li>
     <li><a href="https://jaxupcycled.com/" target="_blank">Jax Upcycled</a> (accessorites made with recycled materials)</li>
 <li><a href="https://transfigureprintco.com/" target="_blank">Transfigure Print Co</a></li>
 </ul>

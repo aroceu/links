@@ -39,12 +39,13 @@
 <ul><li><a href="https://tukut.tumblr.com/tagged/temas" target="blank">Themes by tukut</a></li>
     <li><a href="https://bychloethemes.tumblr.com/tagged/theme" target="blank">Themes by chloe</a></li>
     <li>Tutorial: <a href="https://oddhour.tumblr.com/post/61615825882/redirect-your-old-tumblr-links-to-your-new" target="blank">redirecting links</a></li>
+    <li><a href="https://xuethms.tumblr.com/" target="_blank">Themes by xuethms</a></li>
 </ul>
 
 <h3>Twitter</h3>
 
 <ul>
-    <li><a href="https://github.com/martinmoene/scrape-twitter-dm " target="blank">scrape-twitter-dm</a></li>
+    <li><a href="https://github.com/martinmoene/scrape-twitter-dm" target="blank">scrape-twitter-dm</a></li>
 </ul>
 
 <h3>LiveJournal</h3>

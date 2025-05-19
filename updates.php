@@ -8,106 +8,120 @@
 
 <p>A log of new links loosely by organization, and a simplistic way to keep up with updates.</p>
 
-<details><summary><b>December 6, 2024</b></summary>
+<details><summary><b>May 18, 2025</b></summary>
 
+<p>Got rid of old fanfic sites and personality systems. Moved fannish links into 'archived' since I don't really expect to update them regularly.</p>
 
-<p>not all of these have been added</p>
-
-<p>fic site but not an old one (not added but archiving here anyway)
-<br />https://tre.praze.net/</p>
-
-<p>join
-https://meowbark2000.neocities.org/Cliques/FujoshiWeb</p>
-
-<p>games/socmed
-https://trustandsafety.fun/</p>
-
-<p>webrings!
-https://brisray.com/web/webring-list.htm</p>
-
-<p>reading
-<br />https://shellsharks.com/notes/2024/11/15/cloudy-with-a-chance-of-not-enshittifying
-<br />https://shellsharks.com/you-should-blog
-<br />https://smallweb.thecozy.cat/blog/introduction-to-the-small-web-movement/
+<p>about
+	<br /><a href="https://osteophage.neocities.org/writing/in-praise-of-links" target="_blank">In Praise of Links (osteophage.neocities.org)</a>
 </p>
 
-<p>graphic design tutorials
-https://maple.pet/photoshop/neon-signs</p>
+<p>graphics
+	<br /><a href="https://wanwanworld.neocities.org/" target="_blank">wanwanworld.neocities.org</a>
+	<br /><a href="https://dreamroom.uwu.ai/" target="_blank">dreamroom.uwu.ai</a>
+	<br /><a href="https://graphy.neocities.org/" target="_blank">https://graphy.neocities.org/</a>
+	<br /><a href="https://rentry.co/terrorpix" target="_blank">https://rentry.co/terrorpix</a>
+	<br /><a href="https://dividers.crd.co/" target="_blank">https://dividers.crd.co/</a>
+	<br /><a href="https://pixels.crd.co/#hi" target="_blank">https://pixels.crd.co/#hi</a>
+	<br /><a href="https://hekate2.github.io/buttonmaker/" target="_blank">https://hekate2.github.io/buttonmaker/</a>
+</p>
 
-<p>webdev tools
-<br />https://surfing-waves.com/feed.htm
-<br />https://websetsbylynn.neocities.org/
-<br />https://shivrm.bearblog.dev/yet-another-old-toast-button/
-<br />https://web.archive.org/web/20020815164427if_/http://www.peachie.nu/quizcode.html</p>
+<p>website stuff
+	<br /><a href="https://css-tricks.com/a-perfect-table-of-contents-with-html-css/" target="_blank">CSS Tricks: Table of Contents</a>
+	<br /><a href="https://bohemiansultriness.nekoweb.org/goodies/mylikebutton.txt" target="_blank">bohemiansultriness.nekoweb.org mylikebutton.txt</a>
+	<br /><a href="https://freefrontend.com/" target="_blank">FreeFrontend</a>
+	<br /><a href="https://snowfallgarden.lophius.xyz/" target="_blank">snowfallgarden.lophius.xyz</a>
+	<br /><a href="https://drawbox.nekoweb.org/" target="_blank">drawbox.nekoweb.org</a>
+	<br /><a href="https://docs.getpelican.com/en/latest/" target="_blank">https://docs.getpelican.com/en/latest/</a>
+	<br /><a href="https://prismatic-realm.net/img-src-generator" target="_blank">https://prismatic-realm.net/img-src-generator</a>
+	<br /><a href="https://plasticdino.net/" target="_blank">https://plasticdino.net/</a>
+	<br /><a href="https://maya.land/technicalities/site-advice/" target="_blank">https://maya.land/technicalities/site-advice/</a>
+	<br /><a href="https://github.rosettatype.com/yrsa-rasa/" target="_blank">https://github.rosettatype.com/yrsa-rasa/</a>
+	<br /><a href="https://iframe.chat/" target="_blank">https://iframe.chat/</a>
+	<br /><a href="https://discourse.32bit.cafe/t/guide-recommendations/846" target="_blank">https://discourse.32bit.cafe/t/guide-recommendations/846</a>
+	<br /><a href="https://w.club1.fr/" target="_blank">https://w.club1.fr/</a>
+	<br /><a href="https://www.write-on.org/html/builder.html" target="_blank">https://www.write-on.org/html/builder.html</a>
+	<br /><a href="https://patrickbrosset.com/lab/navigating-the-web-platform/" target="_blank">https://patrickbrosset.com/lab/navigating-the-web-platform/</a>
+	<br /><a href="https://lmnt.me/blog/how-to-make-a-damn-website.html" target="_blank">https://lmnt.me/blog/how-to-make-a-damn-website.html</a>
+	<br /><a href="https://thedabbler.patatas.ca/pages/roll_your_own_rss.html" target="_blank">https://thedabbler.patatas.ca/pages/roll_your_own_rss.html</a>
+	<br /><a href="https://zacharykai.net/notes/site-ideas" target="_blank">https://zacharykai.net/notes/site-ideas</a>
+	<br /><a href="https://gwfh.mranftl.com/fonts" target="_blank">https://gwfh.mranftl.com/fonts</a>
+	<br /><a href="https://neil-clarke.com/block-the-bots-that-feed-ai-models-by-scraping-your-website/" target="_blank">https://neil-clarke.com/block-the-bots-that-feed-ai-models-by-scraping-your-website/</a>
+	<br /><a href="https://darkvisitors.com/" target="_blank">https://darkvisitors.com/</a>
+	<br /><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme" target="_blank">https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme</a>
+	<br /><a href="https://gohugo.io/" target="_blank">https://gohugo.io/</a>
+	<br /><a href="https://imagecolorpicker.com/" target="_blank">https://imagecolorpicker.com/</a>
+	<br /><a href="https://codes.crd.co/" target="_blank">https://codes.crd.co/</a>
+</p>
 
-<p>tutorial
-https://smallweb.thecozy.cat/blog/beginners-guide-to-crafting-your-first-website/</p>
+<p>art sites
+	<br /><a href="https://skelizard.neocities.org/" target="_blank">https://skelizard.neocities.org/</a>
+	<br /><a href="https://killian102004.neocities.org/" target="_blank">https://killian102004.neocities.org/</a>
+	<br /><a href="https://inaka.me/" target="_blank">https://inaka.me/</a>
+	<br /><a href="https://glyph555.neocities.org/" target="_blank">https://glyph555.neocities.org/</a>
+	<br /><a href="https://100r.co/site/home.html" target="_blank">https://100r.co/site/home.html</a>
+	<br /><a href="https://derrek.org/" target="_blank">https://derrek.org/</a>
+	<br /><a href="https://tofokyo.com/homepage/" target="_blank">https://tofokyo.com/homepage/</a>
+	<br /><a href="https://tombubul.info/" target="_blank">https://tombubul.info/</a>
+	<br /><a href="https://shirakotoko.moe/dwbt/art.html" target="_blank">https://shirakotoko.moe/dwbt/art.html</a>
+</p>
+
+<p>fandom
+	<br /><a href="https://zcmag.xyz/zine-idea-generator/" target="_blank">https://zcmag.xyz/zine-idea-generator/</a>
+	<br /><a href="https://alienmelon.itch.io/electric-zine-maker" target="_blank">https://alienmelon.itch.io/electric-zine-maker</a>
+</p>
+
+<p>Tumblr
+	<br /><a href="https://xuethms.tumblr.com/" target="_blank">xuethms.tumblr.com</a>
+</p>
+
+<p>reading
+	<br /><a href="https://lhfm.neocities.org/web-theory" target="_blank">https://lhfm.neocities.org/web-theory</a>
+	<br /><a href="http://www.thatloserfeeling.com/main/writing/good/comeout.html" target="_blank">http://www.thatloserfeeling.com/main/writing/good/comeout.html</a>
+</p>
+
+<ul>
+<li>online tools
+	<br /><a href="https://www.musicverter.com/" target="_blank">musicverter.com</a>
+	<br /><a href="https://delim.co/" target="_blank">https://delim.co/</a>
+	<br /><a href="https://haveagood.today/" target="_blank">https://haveagood.today/</a>
+	<br /><a href="https://mintlify.com/" target="_blank">https://mintlify.com/</a>
+</li>
+
+<li>recipes
+	<br /><a href="https://www.hellofresh.com/recipes" target="_blank">HelloFresh Recipes</a>
+</li>
+</ul>
+
+<p>pokemon
+	<br /><a href="https://pokemon-type-chart.vercel.app/" target="_blank">Pokémon Type Chart</a>
+	<br /><a href="https://web.archive.org/web/20150315020416/http://www.azaleasdolls.com/game_pokemon-trainer.html" target="_blank">Azalea's Dolls Pokémon Trainer Game (archive)</a>
+	<br /><a href="https://www.numuki.com/game/pokemon-trainer-creator-v2/" target="_blank">Numuki Pokémon Trainer Creator</a>
+	<br /><a href="https://wiki.pokerogue.net/credits:sprites" target="_blank">Pokerogue Sprite Credits</a>
+	<br /><a href="https://pamtre-berry.neocities.org/fun/secretbase#" target="_blank">Pamtre Berry Secret Base</a>
+	<br /><a href="https://www.pokedle.net/" target="_blank">Pokedle</a>
+	<br /><a href="https://pamtre-berry.neocities.org/fun/dressup" target="_blank">Pamtre Berry Dressup</a>
+	<br /><a href="https://pokemipsum.com/" target="_blank">Pokemipsum</a>
+	<br /><a href="https://cajunavenger.github.io/" target="_blank">https://cajunavenger.github.io/</a>
+	<br /><a href="https://sweetcharm.net/favoritepicker/picker.html" target="_blank">https://sweetcharm.net/favoritepicker/picker.html</a>
+	<br /><a href="https://pkmnplush.neocities.org/" target="_blank">https://pkmnplush.neocities.org/</a>
+	<br /><a href="https://pokemonboosterpack.com/" target="_blank">https://pokemonboosterpack.com/</a>
+</p>
+
+<p>games
+	<br /><a href="https://pixeldolls.net/" target="_blank">https://pixeldolls.net/</a>
+</p>
+
+<p>writing
+	<br /><a href="https://www.writerswrite.co.za/cheat-sheets-for-writing-body-language/" target="_blank">https://www.writerswrite.co.za/cheat-sheets-for-writing-body-language/</a>
+	<br /><a href="https://owlcation.com/humanities/400-Alternative-words-for-said" target="_blank">https://owlcation.com/humanities/400-Alternative-words-for-said</a>
+	<br /><a href="https://www.onelook.com/reverse-dictionary.shtml" target="_blank">https://www.onelook.com/reverse-dictionary.shtml</a>
+	<br /><a href="https://www.bryndonovan.com/2015/04/10/master-list-of-gestures-and-body-language-for-writers/" target="_blank">https://www.bryndonovan.com/2015/04/10/master-list-of-gestures-and-body-language-for-writers/</a>
+</p>
 
 <p>links
-<br />https://cloverso.me/links/
-<br />https://smallweb.thecozy.cat/resources-archive/
-<br />https://chxshire22.com/links/
-<br />https://kero.gay/links
-<br />https://cepheus.neocities.org/04
-<br />https://justfluffingaround.neocities.org/resources
-<br />https://melaaaa.neocities.org/links
-<br />https://lazer-bunny.neocities.org/Resources
-<br />https://censorine.com/directory
-<br />https://ocean-waves.xyz/links
-<br />https://y2k.neocities.org/bookmarks
-<br />https://dog-house.neocities.org/links
-<br />https://irony-machine.neocities.org/links/
-<br />https://karuma.me/resources/
-<br />https://www.hellomei.dev/links</p>
-
-<p>manifesto links
-<br />https://neonriser.neocities.org/manifesto
-<br />https://blog.neocities.org/blog/2013/05/28/making-the-web-fun-again
-<br />[read later] https://benhoyt.com/writings/the-small-web-is-beautiful/
-<br />https://gildedware.neocities.org/manifesto
-<br />[read later] https://web.archive.org/web/20200220031406/https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/
-<br />[read later] https://christianheilmann.com/2021/12/20/the-web-starts-on-page-four/
-<br />[read later] https://adactio.com/articles/1522/
-<br />https://kiriska.com/blog/2022/your-website-is-useless/</p>
-
-<p>art
-<br />https://spiritcellar.art/
-<br />https://symliadoo.com/
-<br />https://lazer-bunny.neocities.org/Art
-<br />https://bridget.party/art
-<br />https://armaina.com/
-<br />https://psshaw.neocities.org/gallerie
-<br />https://cloverso.me/art/</p>
-
-<p>art site resource links
-https://armaina.com/reso.html</P>
-
-<p>content sites
-<br />https://cepheus.neocities.org/stars/
-<br />https://epicfranb.nekoweb.org/graphics
-<br />https://sakuradreams.neocities.org/
-<br />https://www.asterism-m.com/</p>
-
-<p>website community stuff
-https://brisray.com/web/webring-list.htm</p>
-
-<p>online books
-https://spiritcellar.neocities.org/library</p>
-
-<p>https://letsdecentralize.org/ 
-<br />https://search.marginalia.nu/ <-- non-corporate website search
-<br />https://landchad.net/<-- tutorial for setting up own server (a real bookmark)</p>
-
-<p>maybe for later
-https://fediring.net/</p>
-
-<p>https://bukmark.club/
-<br />https://www.wendycarlos.com/live.html
-<br />https://superbad.com</p>
-
-<p>download sprites for pokemon secret base stuff
-<br />https://www.serebii.net/pokemon_advance/base/index.shtml
-<br />https://www.spriters-resource.com/game_boy_advance/pokemonrubysapphire/</p>
+	<br /><a href="https://hardmachine.neocities.org/links" target="_blank">hardmachine.neocities.org/links</a>
+</p>
 
 </p></details>
 

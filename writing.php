@@ -57,7 +57,7 @@
         <li><a href="https://literaticat.blogspot.com/2011/05/wordcount-dracula.html" target="blank">Wordcount Dracula</a></li>
     <li><a href="https://wordsnstuffblog.com/post/169680599910/resources-for-describing-physical-things" target="blank">Resources For Describing Physical Things</a></li>
     <li><a href="https://bettsfic.tumblr.com/tagged/writing+advice" target="blank">bettsfic's writing advice</a></li>
-        <li><a href="https://www.lrb.co.uk/the-paper/v32/n18/elif-batuman/get-a-real-degree">Get a Real Degree by Elif Batuman</a></li>
+        <li><a href="https://www.lrb.co.uk/the-paper/v32/n18/elif-batuman/get-a-real-degree" target="blank">Get a Real Degree by Elif Batuman</a></li>
         
         </ul>
         
@@ -87,6 +87,15 @@ Pinning Down Those Butterfly Souls (Honesty in Asking for Feedback)</a></li>
      <li><a href="http://www.iwrotethisforyou.me/" target="blank">I Wrote This For You</a></li>
 </ul>
 
+<h3>Vocabulary/Body Language</h3>
+
+<ul>
+     <li><a href="https://www.writerswrite.co.za/cheat-sheets-for-writing-body-language/" target="blank">Cheat Sheets For Writing Body Language</a></li>
+    <li><a href="https://owlcation.com/humanities/400-Alternative-words-for-said" target="blank">400+ Alternative Words for "Said"</a></li>
+    <li><a href="https://www.onelook.com/reverse-dictionary.shtml" target="blank">OneLook Reverse Dictionary</a></li>
+    <li><a href="https://www.bryndonovan.com/2015/04/10/master-list-of-gestures-and-body-language-for-writers/" target="blank">Master List of Gestures and Body Language for Writers</a></li>
+</ul>
+
 <h3>Lists of links to writerly resources</h3>
 <ul>
     <li><a href="https://lira-snape.livejournal.com/12817.html" target="blank">Writing help links</a> by lira_snape</li>
@@ -94,4 +103,3 @@ Pinning Down Those Butterfly Souls (Honesty in Asking for Feedback)</a></li>
      <li><a href="https://synecdochic.dreamwidth.org/282057.html" target="blank">Writing Meta Table of Contents</a> by synecdochic</li>
 
 </ul>
-

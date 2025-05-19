@@ -7,10 +7,10 @@
 <h3>Text</h3>
 
 <ul>
-    <li><a href="https://catalog.loc.gov/" target="blank">Library of Congress</a></li>
-    <li><a href="https://search.worldcat.org/" target="blank">World Cat</a></li>
-     <li><a href="https://annas-archive.org/" target="blank">Anna's Archive</a></li>
-     <li><a href="https://www.sci-hub.st/" target="blank">sci-hub</a></li>
+    <li><a href="https://catalog.loc.gov/" target="_blank">Library of Congress</a></li>
+    <li><a href="https://search.worldcat.org/" target="_blank">World Cat</a></li>
+    <li><a href="https://annas-archive.org/" target="_blank">Anna's Archive</a></li>
+    <li><a href="https://www.sci-hub.st/" target="_blank">sci-hub</a></li>
 </ul>
 
 <h3>Images (professional & instutitional art/photography)</h3>
@@ -29,21 +29,16 @@
 <h3>Games</h3>
 
 <ul>
-    <li><a href="https://flashpointarchive.org/downloads" target="blank">Flashpoint Archive</a></li>
-        <li><a href="https://whitedesert.neocities.org/" target="blank">WHITEDESERT: a collection of surreal and horror games and websites</a></li>
-    <li><a href="https://opengameart.org/" target="blank">Open Game Art</a></li>
-    <li><a href="https://tcrf.net/The_Cutting_Room_Floor" target="blank">The Cutting Room Floor</a></li>
+    <li><a href="https://flashpointarchive.org/downloads" target="_blank">Flashpoint Archive</a></li>
+    <li><a href="https://whitedesert.neocities.org/" target="_blank">WHITEDESERT: a collection of surreal and horror games and websites</a></li>
+    <li><a href="https://opengameart.org/" target="_blank">Open Game Art</a></li>
+    <li><a href="https://tcrf.net/The_Cutting_Room_Floor" target="_blank">The Cutting Room Floor</a></li>
 </ul>
 
 <h3>Miscellaneous</h3>
 <ul>
     <li><a href="https://boxy.neocities.org/" target="_blank">boxy</a> (wallpapers)</li>
-     <li><a href="https://geocities.restorativland.org/" target="_blank">geocities</a></li>
-     <li><a href="https://mydora.restorativland.org/" target="_blank">mydora</a> (audio)</li>
-      <li><a href="https://asciiart.website/" target="_blank">ASCII Art</a></li>
- </ul>
-
-
-
-    
-
+    <li><a href="https://geocities.restorativland.org/" target="_blank">geocities</a></li>
+    <li><a href="https://mydora.restorativland.org/" target="_blank">mydora</a> (audio)</li>
+    <li><a href="https://asciiart.website/" target="_blank">ASCII Art</a></li>
+</ul>
