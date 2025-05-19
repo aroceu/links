@@ -10,7 +10,7 @@
 
 <p>This is a gathered collection of links I have bookmarked, saved, returned to, or planned on checking out, over the many years I have been on the internet. It is by no means comprehensive or necessarily representative of my knowledge, enjoyment, or experience with the topic at hand, just links I considered worth saving at one point in time. These have been amassed from: my Pinboard, Delicious, Diigo, Tumblr, and personal bookmarks&mdash;I find them all worth sharing here for one reason or another. I hope that through these pages you find at least <i>one</i> new idea, article, or website to explore. If I can do that, then I've achieved my goal.</p>
 
-<p>While some sections may have certain creators or pieces of entertainment recommended, this is by no means intended to be a recommendations list, just a repository of saved link.</p>
+<p>While some sections may have certain creators or pieces of entertainment recommended, this is by no means intended to be a recommendations list, just a repository of saved/archived links. For recommendations, check out my <a href="https://aroceu.com/spotlight" target="_parent">spotlights</a> or <a href="https://aroceu.com/library/log" target="_parent">media log</a>.</p>
 
 <p>You can keep up with real time updates and <a href="https://github.com/aroceu/links" target="_blank">view a repository of this project on Github</a>.
 
