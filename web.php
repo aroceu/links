@@ -147,6 +147,7 @@
 	<li><a href="https://freefrontend.com/" target="_blank">Free Frontend</a></li>
 	<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme">prefers-color-scheme</a></li>
 	<li><a href="https://codes.crd.co/" target="_blank">codes.crd.co</a></li>
+	<li><a href="https://github.com/nickyleach/jQuery.bindLast">jquery.bindlast</a></li>
 </ul>
 
 <h3>Scripts</h3>

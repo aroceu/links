@@ -60,6 +60,7 @@
     <li><a href="https://sneekrealm.neocities.org/links/" target="_blank">links at sneekrealm</a></li>
     <li><a href="https://moldymoldy.neocities.org/working/links" target="_blank">links at moldymoldy</a></li>
     <li><a href="https://justfluffingaround.neocities.org/resources" target="_blank">resources at justfluffingaround</a></li>
+    <li><a href="https://bookmarks.4-walls.net/bookmarks/shared" target="_blank">kat's links</a></li>
 </ul>
 
 <h2>Tools</h2>

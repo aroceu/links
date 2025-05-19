@@ -64,15 +64,12 @@
 	<br /><a href="https://tofokyo.com/homepage/" target="_blank">https://tofokyo.com/homepage/</a>
 	<br /><a href="https://tombubul.info/" target="_blank">https://tombubul.info/</a>
 	<br /><a href="https://shirakotoko.moe/dwbt/art.html" target="_blank">https://shirakotoko.moe/dwbt/art.html</a>
+		<br /><a href="https://github.com/nickyleach/jQuery.bindLast">jquery.bindlast</a>
 </p>
 
 <p>fandom
 	<br /><a href="https://zcmag.xyz/zine-idea-generator/" target="_blank">https://zcmag.xyz/zine-idea-generator/</a>
 	<br /><a href="https://alienmelon.itch.io/electric-zine-maker" target="_blank">https://alienmelon.itch.io/electric-zine-maker</a>
-</p>
-
-<p>Tumblr
-	<br /><a href="https://xuethms.tumblr.com/" target="_blank">xuethms.tumblr.com</a>
 </p>
 
 <p>reading
@@ -119,8 +116,9 @@
 	<br /><a href="https://www.bryndonovan.com/2015/04/10/master-list-of-gestures-and-body-language-for-writers/" target="_blank">https://www.bryndonovan.com/2015/04/10/master-list-of-gestures-and-body-language-for-writers/</a>
 </p>
 
-<p>links
-	<br /><a href="https://hardmachine.neocities.org/links" target="_blank">hardmachine.neocities.org/links</a>
+<p>social media tools
+	<br /><a href="https://pixeliana.neocities.org/statuscafe" target="_blank">https://pixeliana.neocities.org/statuscafe</a>
+	<br /><a href="https://xuethms.tumblr.com/" target="_blank">xuethms.tumblr.com</a>
 </p>
 
 </p></details>

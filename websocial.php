@@ -34,6 +34,12 @@
 	<li><a href="https://carolinethemes.com/" target="blank">Caroline Themes</a></li>
 </ul>
 
+<h3>Status.cafe</h3>
+
+<ul>
+    <li><a href="https://pixeliana.neocities.org/statuscafe">status cafe tips & tricks</a></li>
+</ul>
+
 <h3>Tumblr</h3>
 
 <ul><li><a href="https://tukut.tumblr.com/tagged/temas" target="blank">Themes by tukut</a></li>
