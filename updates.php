@@ -227,7 +227,6 @@ art/graphic resources
 
 <p><details><summary>bluesky</p></summary>
 <p><a href="https://blueskydirectory.com/" target="_blank">https://blueskydirectory.com/</a><br />
-<a href="https://aroceu.github.io/bsky" target="_blank">https://aroceu.github.io/bsky</a><br />
 <a href="https://www.pfrazee.com/" target="_blank">https://www.pfrazee.com/</a><br />
 </p>
 
